@@ -1,0 +1,24 @@
+{
+  "data": {
+    "meeting_settings": [
+
+    ],
+    "messaging_settings": [
+
+    ],
+    "profile_view_settings": [
+    ],
+    "functionality_settings": [
+
+    ],
+    "is_onboarding": 1,
+    "name": "Speaker",
+    "color": "#000000",
+    "is_show_qr": 0,
+    "is_default": "NO",
+    "isCustom": "NO",
+    "type": "SPEAKER",
+    "attendance_type": "virtual",
+    "_id": "626957f001ce79676e1de39e"
+  }
+}

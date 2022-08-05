@@ -1,0 +1,117 @@
+{
+  "data": {
+    "meeting_settings": [
+      {
+        "id": 787152,
+        "receiver_member_group_id": "626957f001ce79676e1de39d",
+        "is_enable": 1,
+        "name": "SPEAKER1"
+      },
+      {
+        "id": 787155,
+        "receiver_member_group_id": "626957f001ce79676e1de39e",
+        "is_enable": 1,
+        "name": "Speaker"
+      },
+      {
+        "id": 787158,
+        "receiver_member_group_id": "626957f001ce79676e1de39f",
+        "is_enable": 1,
+        "name": "Booth Member"
+      }
+    ],
+    "messaging_settings": [
+      {
+        "id": 787153,
+        "receiver_member_group_id": "626957f001ce79676e1de39d",
+        "is_enable": 1,
+        "name": "SPEAKER1"
+      },
+      {
+        "id": 787156,
+        "receiver_member_group_id": "626957f001ce79676e1de39e",
+        "is_enable": 1,
+        "name": "Speaker"
+      },
+      {
+        "id": 787159,
+        "receiver_member_group_id": "626957f001ce79676e1de39f",
+        "is_enable": 1,
+        "name": "Booth Member"
+      }
+    ],
+    "profile_view_settings": [
+      {
+        "id": 787154,
+        "receiver_member_group_id": "626957f001ce79676e1de39d",
+        "is_enable": 1,
+        "name": "SPEAKER1"
+      },
+      {
+        "id": 787157,
+        "receiver_member_group_id": "626957f001ce79676e1de39e",
+        "is_enable": 1,
+        "name": "Speaker"
+      },
+      {
+        "id": 787160,
+        "receiver_member_group_id": "626957f001ce79676e1de39f",
+        "is_enable": 1,
+        "name": "Booth Member"
+      }
+    ],
+    "functionality_settings": [
+      {
+        "id": 386388,
+        "community_functionality_type_id": 13,
+        "is_enable": 1,
+        "name": "Create Post"
+      },
+      {
+        "id": 386389,
+        "community_functionality_type_id": 14,
+        "is_enable": 1,
+        "name": "Create Poll"
+      },
+      {
+        "id": 386390,
+        "community_functionality_type_id": 15,
+        "is_enable": 1,
+        "name": "Vote Poll"
+      },
+      {
+        "id": 386391,
+        "community_functionality_type_id": 16,
+        "is_enable": 1,
+        "name": "Comment Post"
+      },
+      {
+        "id": 386392,
+        "community_functionality_type_id": 35,
+        "is_enable": 1,
+        "name": "Create Photo Posts"
+      },
+      {
+        "id": 386393,
+        "community_functionality_type_id": 36,
+        "is_enable": 1,
+        "name": "Create Videos Posts"
+      },
+      {
+        "id": 386394,
+        "community_functionality_type_id": 37,
+        "is_enable": 1,
+        "name": "Create Introduction Posts"
+      }
+    ],
+    "is_onboarding": 1,
+    "name": "Booth Member",
+    "color": "#000000",
+    "is_show_qr": 0,
+    "is_default": "NO",
+    "isCustom": "NO",
+    "type": "BOOTHMEMBER",
+    "attendance_type": "virtual",
+    "_id": "626957f001ce79676e1de39e"
+  }
+}

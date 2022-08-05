@@ -1,0 +1,10 @@
+{
+  "payload": {
+    "data": {
+      "email": "rehan@hubilo.com",
+      "mode": "OTP",
+      "otp": "1234",
+      "user_consent_data": []
+    }
+  }
+}

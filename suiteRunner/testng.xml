@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Automation Mobile" preserve-order="true" parallel="none" thread-count="0">
+    <listeners>
+        <listener class-name="com.hubilo.utils.listners.TestListenerManager"></listener>
+    </listeners>
+    <test verbose="1" preserve-order="true" name="Mobile Automation Smoke Suite" parallel="none" thread-count="0">
+        <parameter name="env" value="release"></parameter>
+        <parameter name="platform" value="android"></parameter>
+        <classes>
+            <class name="UI_Runner.LoginExecution"/>
+            <class name="UI_Runner.RoomExecution"/>
+            <class name="UI_Runner.LoungeExecution"/>
+            <class name="UI_Runner.BoothExecution"/>
+            <class name="UI_Runner.PeopleExecution"/>
+            <class name="UI_Runner.MeetingExecution"/>
+            <class name="UI_Runner.LeaderboardExecution"/>
+            <class name="UI_Runner.EventFeedExecution"/>
+            <class name="UI_Runner.AgendaExecution"/>
+            <class name="UI_Runner.ReceptionExecution"/>
+            <class name="UI_Runner.One2OneChatExecution"/>
+            <class name="UI_Runner.ProfileSettingExecution"/>
+            <class name="UI_Runner.SignUpExecution"/>
+
+        </classes>
+    </test>
+    <!--    <test verbose="1" preserve-order="true" name="Smoke Test Android" parallel="none">-->
+    <!--        <parameter name="env" value="${env}"></parameter>-->
+    <!--        <parameter name="platform" value="${platform}"></parameter>-->
+    <!--        <classes>-->
+    <!--            <class name="UI_Runner.LoginExecution"/>-->
+    <!--            <class name="UI_Runner.RoomExecution"/>-->
+    <!--            <class name="UI_Runner.LoungeExecution"/>-->
+    <!--            <class name="UI_Runner.BoothExecution"/>-->
+    <!--            <class name="UI_Runner.PeopleExecution"/>-->
+    <!--            <class name="UI_Runner.MeetingExecution"/>-->
+    <!--            <class name="UI_Runner.EventFeedExecution"/>-->
+    <!--            <class name="UI_Runner.AgendaExecution"/>-->
+    <!--            <class name="UI_Runner.ReceptionExecution"/>-->
+    <!--            <class name="UI_Runner.ProfileSettingExecution"/>-->
+    <!--        </classes>-->
+    <!--    </test>-->
+
+</suite>

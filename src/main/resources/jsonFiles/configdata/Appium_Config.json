@@ -1,0 +1,17 @@
+{
+    "ANDROID":{
+        "PLATFORM_TYPE": "Android",
+        "APP_NAME": "hubilo.apk",
+        "ANDROID_APP_PACKAGE": "com.hubilo.v2.dev",
+        "ANDROID_APP_ACTIVITY": "com.hubilo.ui.activity.splash.SplashScreenActivity",
+        "ANDROID_PLATFORM_VERSION": "11",
+        "ANDROID_DEVICE_ID": "a7a1b67c"
+},
+    "IOS":{
+        "IOS_PLATFORM_TYPE": "ios",
+        "IOS_APP_NAME": "hubilo.ipa",
+        "IOS_PLATFORM_VERSION": "14.5",
+        "IOS_DEVICE_NAME": "iPhone 12",
+        "APP_NAME": "HubiloAppNew.app"
+    }
+}

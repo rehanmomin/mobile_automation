@@ -1,0 +1,42 @@
+{
+  "loginData": [
+    {
+      "EVENTID": "19887",
+      "ORGANIZERID": "344460",
+      "EVENT": "MULTI",
+      "EVENT_TYPE": "onGoing",
+      "EVENT_NAME": "Automation-Appium",
+      "EMAIL": "sam@hubilo.com",
+      "PASSWORD": "qwerty@12",
+      "IS_OTP": "TRUE",
+      "OTP": "1234"
+    }
+  ],
+  "signUpData": [
+    {
+      "EMAIL": "ps+2211@hubilo.com",
+      "FIRST_NAME": "Samual",
+      "LAST_NAME": "Macron",
+      "NEW_PASSWORD": "qwerty@12",
+      "CONFIRM_PASSWORD": "qwerty@12",
+      "GENDER": "Male",
+      "ABOUT": "This is about section text",
+      "DESIGNATION": "SDET QA",
+      "ORGANISATION": "Hubilo",
+      "COUNTRY": "Andorra",
+      "STATE": "Ordino",
+      "CITY": "Bangluru",
+      "INDUSTRY": "Banking",
+      "WEBSITE": "https://hubilo.com",
+      "FACEBOOK": "https://facebook.com",
+      "LINKEDIN": "https://linkedin.com",
+      "TWITTER": "https://twitter.com",
+      "INSTAGRAM": "https://instagram.com",
+      "LOOKING_FOR": "Intern",
+      "OFFERING": "Designer",
+      "INTEREST": "Consulting",
+      "PASSWORD": "qwerty@12",
+      "OTP": "1234"
+    }
+  ]
+}

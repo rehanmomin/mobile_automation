@@ -1,0 +1,10 @@
+{
+  "data": {
+    "exhibitor_id": "",
+    "live_chat": 1,
+    "QnA": 1,
+    "QnA_moderation": 0,
+    "QnA_anonymous": 1,
+    "live_polls": 1
+  }
+}

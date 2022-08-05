@@ -1,0 +1,25 @@
+{
+  "data": {
+    "meeting_settings": [
+
+    ],
+    "messaging_settings": [
+
+    ],
+    "profile_view_settings": [
+
+    ],
+    "functionality_settings": [
+
+    ],
+    "is_onboarding": 0,
+    "name": "Attendee",
+    "color": "#000000",
+    "is_show_qr": 0,
+    "is_default": "YES",
+    "isCustom": "NO",
+    "type": "ATTENDEE",
+    "attendance_type": "virtual",
+    "_id": "62e33a62775a3245683c795f"
+  }
+}

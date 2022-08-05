@@ -1,0 +1,18 @@
+{
+	"Settings": {
+		"Environment": "release",
+		"UserName": "rehan@hubilo.com",
+		"Passsword": "hubilomasterpassword",
+		"EventId": "19887",
+		"EventName": "",
+		"OrganiserId": "344460",
+		"EndPoint": "https://newdashboard.v2release.demohubilo.com/backend/api",
+		"ChatEnabled": "true",
+		"MeetingEnabled": "true",
+		"NotificationEnabled": "true",
+		"MailSupported": "true",
+		"HiddenInMultiEventApp": "true",
+		"groupId":"626957f001ce79676e1de39d",
+		"buildversion": "565"
+	}
+}

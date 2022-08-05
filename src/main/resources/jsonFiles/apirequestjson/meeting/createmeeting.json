@@ -1,0 +1,9 @@
+{
+  "data": {
+    "participant1": "626288d4e94daa03190fa932",
+    "participant2": "60f12b5e44ce3baf45aa51e5",
+    "meeting_time": 1656390600000,
+    "meeting_description": "Automation testing meeting",
+    "is_send_confirmation_mail": 0
+  }
+}

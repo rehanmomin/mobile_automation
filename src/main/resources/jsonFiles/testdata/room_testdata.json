@@ -1,0 +1,20 @@
+{
+  "room":
+    {
+      "CHAT": "This is room chat ",
+      "ANYONE_ROOM": "anyone to anyone room",
+      "SEARCH_ROOM": "coded room",
+      "SORTING_A2Z": "sorting A to Z room",
+      "CODED_ROOM": "coded room",
+      "MOD_ROOM": "moderated room",
+      "USER_NAME": "Samual Macron",
+      "LIVE_CHAT": "Live Chat",
+      "ROOM_CODE": "1234",
+      "DESCUSSION": "Start Discussion",
+      "MOD_USER": "Jam Singh",
+      "MOD_EMAIL": "jam@hubilo.com",
+      "ANYONE2ANYONE": "multi",
+      "MODERATED":"moderator",
+      "CODED":"coded"
+    }
+}

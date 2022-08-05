@@ -1,0 +1,34 @@
+{
+  "payload": {
+    "data": {
+      "userProfileFields": {
+        "628641bde349b02fc6487734": "indian",
+        "626684e9d11abd0e5b43d083": ""
+      },
+      "groupValueArray": {
+        "62736d57536e67671e07f9c7": [
+          {
+            "id": "1",
+            "fieldValue": "Automation",
+            "team": 1
+          }
+        ]
+      },
+      "firstName": "Automation",
+      "lastName": "Testing",
+      "about": "Automated user created and updated",
+      "state": "null",
+      "country": "null",
+      "organisation_name": "Hubilo@2021",
+      "designation": "Automated QA Test",
+      "city": "",
+      "industry": "Testing",
+      "profilePictures": {
+        "orignal": "",
+        "thumb": ""
+      },
+      "cover_image": "",
+      "cover_image_type": ""
+    }
+  }
+}

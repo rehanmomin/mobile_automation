@@ -1,0 +1,20 @@
+{
+	"LoginData":
+	{
+		"environment ":"release",
+		"username":"rehan@hubilo.com",
+		"password":"hubilomasterpassword",
+		"captcha": "",
+		"eventid": "19887",
+		"organiserId": "344460",
+		"chatEnabled": "true",
+		"meetingEnabled ": "true",
+		"notificationEnabled": "true",
+		"mailSupported ": "true",
+		"hiddenInMultiEventApp": "true",
+		"showEventDate": "true",
+		"token":"",
+		"sessionStartTime":"2022-01-15T13:15:30",
+		"sessionEndTime":"2022-12-15T13:15:30"
+	}
+}

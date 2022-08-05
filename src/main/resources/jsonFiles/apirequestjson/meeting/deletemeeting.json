@@ -1,0 +1,15 @@
+{
+  "data": {
+    "is_all": 0,
+    "meeting_ids": [
+      "62ba1903433d30905e733aac"
+    ],
+    "search": "",
+    "filter": {
+      "status": "",
+      "participants": [],
+      "from": "",
+      "upto": ""
+    }
+  }
+}

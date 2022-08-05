@@ -1,0 +1,635 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports1.css" rel="stylesheet" id="ultra" />
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" id="retro" disabled="false"/>
+    <script type="text/javascript" src="jquery-3.6.0.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <button id="button" class="button">Switch Retro Theme</button> <!-- button -->
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" title="Collapse/expand all the suites" class="collapse-all-link">
+          <img src="collapseall.gif" class="collapse-all-icon">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" panel-name="suite-Automation_Mobile" class="navigator-link">
+              <span class="suite-name border-skipped">Automation Mobile</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" panel-name="test-xml-Automation_Mobile" class="navigator-link ">
+                    <span>testng.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="testlist-Automation_Mobile" class="navigator-link ">
+                    <span class="test-stats">1 test</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="group-Automation_Mobile" class="navigator-link ">
+                    <span>1 group</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="times-Automation_Mobile" class="navigator-link ">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="reporter-Automation_Mobile" class="navigator-link ">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="ignored-methods-Automation_Mobile" class="navigator-link ">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" panel-name="chronological-Automation_Mobile" class="navigator-link ">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">9 methods,  9 skipped,  </span>
+                  </li>
+                  <li>
+                    <span class="method-list-title skipped">Skipped methods</span>
+                    <span class="show-or-hide-methods skipped">
+                      <a href="#" panel-name="suite-Automation_Mobile" class="hide-methods skipped suite-Automation_Mobile"> (hide)</a> <!-- hide-methods skipped suite-Automation_Mobile -->
+                      <a href="#" panel-name="suite-Automation_Mobile" class="show-methods skipped suite-Automation_Mobile"> (show)</a> <!-- show-methods skipped suite-Automation_Mobile -->
+                    </span>
+                    <div class="method-list-content skipped suite-Automation_Mobile">
+                      <span>
+                        <img src="skipped.png" width="3%"/>
+                        <a href="#" panel-name="suite-Automation_Mobile" title="UI_Runner.LoginExecution" class="method navigator-link" hash-for-method="verifyDifferentUser">verifyDifferentUser</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="skipped.png" width="3%"/>
+                        <a href="#" panel-name="suite-Automation_Mobile" title="UI_Runner.LoginExecution" class="method navigator-link" hash-for-method="verifyEmptyEmailWithoutAndWithConsent">verifyEmptyEmailWithoutAndWithConsent</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="skipped.png" width="3%"/>
+                        <a href="#" panel-name="suite-Automation_Mobile" title="UI_Runner.LoginExecution" class="method navigator-link" hash-for-method="verifyEmptyPasswordWithoutAndWithConsents">verifyEmptyPasswordWithoutAndWithConsents</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="skipped.png" width="3%"/>
+                        <a href="#" panel-name="suite-Automation_Mobile" title="UI_Runner.LoginExecution" class="method navigator-link" hash-for-method="verifyInvalidEmailWithoutAndWithConsent">verifyInvalidEmailWithoutAndWithConsent</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="skipped.png" width="3%"/>
+                        <a href="#" panel-name="suite-Automation_Mobile" title="UI_Runner.LoginExecution" class="method navigator-link" hash-for-method="verifyInvalidOTP">verifyInvalidOTP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="skipped.png" width="3%"/>
+                        <a href="#" panel-name="suite-Automation_Mobile" title="UI_Runner.LoginExecution" class="method navigator-link" hash-for-method="verifyInvalidPasswordWithoutAndWithConsent">verifyInvalidPasswordWithoutAndWithConsent</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="skipped.png" width="3%"/>
+                        <a href="#" panel-name="suite-Automation_Mobile" title="UI_Runner.LoginExecution" class="method navigator-link" hash-for-method="verifySelectEventFromMultiEventList(com.hubilo.pojo.ui.LoginData@2f11d889)">verifySelectEventFromMultiEventList(com.hubilo.pojo.ui.LoginData@2f11d889)</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="skipped.png" width="3%"/>
+                        <a href="#" panel-name="suite-Automation_Mobile" title="UI_Runner.LoginExecution" class="method navigator-link" hash-for-method="verifyValidEmailAndPassword">verifyValidEmailAndPassword</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img src="skipped.png" width="3%"/>
+                        <a href="#" panel-name="suite-Automation_Mobile" title="UI_Runner.LoginExecution" class="method navigator-link" hash-for-method="verifyValidOTP">verifyValidOTP</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content skipped suite-Automation_Mobile -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Automation_Mobile" class="panel Automation_Mobile">
+          <div class="suite-Automation_Mobile-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">UI_Runner.LoginExecution</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyDifferentUser">
+                  </a> <!-- verifyDifferentUser -->
+                  <span class="method-name">verifyDifferentUser</span>
+                  <div class="stack-trace">java.lang.Throwable: Method UI_Runner.LoginExecution.verifyDifferentUser() on instance UI_Runner.LoginExecution@7b78ed6a depends on not successfully finished methods 
+[UI_Runner.LoginExecution.verifySelectEventFromMultiEventList() on instance UI_Runner.LoginExecution@7b78ed6a]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+... Removed 15 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyEmptyEmailWithoutAndWithConsent">
+                  </a> <!-- verifyEmptyEmailWithoutAndWithConsent -->
+                  <span class="method-name">verifyEmptyEmailWithoutAndWithConsent</span>
+                  <div class="stack-trace">java.lang.Throwable: Method UI_Runner.LoginExecution.verifyEmptyEmailWithoutAndWithConsent() on instance UI_Runner.LoginExecution@7b78ed6a depends on not successfully finished methods 
+[UI_Runner.LoginExecution.verifySelectEventFromMultiEventList() on instance UI_Runner.LoginExecution@7b78ed6a]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+... Removed 15 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyEmptyPasswordWithoutAndWithConsents">
+                  </a> <!-- verifyEmptyPasswordWithoutAndWithConsents -->
+                  <span class="method-name">verifyEmptyPasswordWithoutAndWithConsents</span>
+                  <div class="stack-trace">java.lang.Throwable: Method UI_Runner.LoginExecution.verifyEmptyPasswordWithoutAndWithConsents() on instance UI_Runner.LoginExecution@7b78ed6a depends on not successfully finished methods 
+[UI_Runner.LoginExecution.verifySelectEventFromMultiEventList() on instance UI_Runner.LoginExecution@7b78ed6a]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+... Removed 15 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyInvalidEmailWithoutAndWithConsent">
+                  </a> <!-- verifyInvalidEmailWithoutAndWithConsent -->
+                  <span class="method-name">verifyInvalidEmailWithoutAndWithConsent</span>
+                  <div class="stack-trace">java.lang.Throwable: Method UI_Runner.LoginExecution.verifyInvalidEmailWithoutAndWithConsent() on instance UI_Runner.LoginExecution@7b78ed6a depends on not successfully finished methods 
+[UI_Runner.LoginExecution.verifySelectEventFromMultiEventList() on instance UI_Runner.LoginExecution@7b78ed6a]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+... Removed 15 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyInvalidOTP">
+                  </a> <!-- verifyInvalidOTP -->
+                  <span class="method-name">verifyInvalidOTP</span>
+                  <div class="stack-trace">java.lang.Throwable: Method UI_Runner.LoginExecution.verifyInvalidOTP() on instance UI_Runner.LoginExecution@7b78ed6a depends on not successfully finished methods 
+[UI_Runner.LoginExecution.verifySelectEventFromMultiEventList() on instance UI_Runner.LoginExecution@7b78ed6a]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+... Removed 15 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyInvalidPasswordWithoutAndWithConsent">
+                  </a> <!-- verifyInvalidPasswordWithoutAndWithConsent -->
+                  <span class="method-name">verifyInvalidPasswordWithoutAndWithConsent</span>
+                  <div class="stack-trace">java.lang.Throwable: Method UI_Runner.LoginExecution.verifyInvalidPasswordWithoutAndWithConsent() on instance UI_Runner.LoginExecution@7b78ed6a depends on not successfully finished methods 
+[UI_Runner.LoginExecution.verifySelectEventFromMultiEventList() on instance UI_Runner.LoginExecution@7b78ed6a]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+... Removed 15 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifySelectEventFromMultiEventList(com.hubilo.pojo.ui.LoginData@2f11d889)">
+                  </a> <!-- verifySelectEventFromMultiEventList(com.hubilo.pojo.ui.LoginData@2f11d889) -->
+                  <span class="method-name">verifySelectEventFromMultiEventList</span>
+                  <span class="parameters">(com.hubilo.pojo.ui.LoginData@2f11d889)</span>
+                  <div class="stack-trace">org.openqa.selenium.SessionNotCreatedException: Unable to create a new remote session. Please check the server log for more details. Original error: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.35 seconds
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;192.168.1.28&apos;, ip: &apos;fe80:0:0:0:8e4:61dd:f19f:c717%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;12.4&apos;, java.version: &apos;11.0.15.1&apos;
+Driver info: driver.version: IOSDriver
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;192.168.1.28&apos;, ip: &apos;fe80:0:0:0:8e4:61dd:f19f:c717%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;12.4&apos;, java.version: &apos;11.0.15.1&apos;
+Driver info: driver.version: IOSDriver
+	at io.appium.java_client.remote.AppiumCommandExecutor$1.createSession(AppiumCommandExecutor.java:216)
+	at io.appium.java_client.remote.AppiumCommandExecutor.createSession(AppiumCommandExecutor.java:225)
+	at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:250)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
+	at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:41)
+	at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
+	at io.appium.java_client.ios.IOSDriver.execute(IOSDriver.java:1)
+	at org.openqa.selenium.remote.RemoteWebDriver.startSession(RemoteWebDriver.java:213)
+	at io.appium.java_client.AppiumDriver.startSession(AppiumDriver.java:363)
+	at org.openqa.selenium.remote.RemoteWebDriver.&lt;init&gt;(RemoteWebDriver.java:131)
+	at io.appium.java_client.DefaultGenericMobileDriver.&lt;init&gt;(DefaultGenericMobileDriver.java:37)
+	at io.appium.java_client.AppiumDriver.&lt;init&gt;(AppiumDriver.java:89)
+	at io.appium.java_client.AppiumDriver.&lt;init&gt;(AppiumDriver.java:99)
+	at io.appium.java_client.ios.IOSDriver.&lt;init&gt;(IOSDriver.java:90)
+	at com.hubilo.utils.appium_engine.IOSDriverInit.getIOSDriver(IOSDriverInit.java:41)
+	at com.hubilo.base.BaseTest.init(BaseTest.java:46)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+	at io.appium.java_client.remote.AppiumCommandExecutor$1.createSession(AppiumCommandExecutor.java:193)
+	... 40 more
+Caused by: org.openqa.selenium.UnsupportedCommandException: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.35 seconds
+Build info: version: &apos;3.141.59&apos;, revision: &apos;e82be7d358&apos;, time: &apos;2018-11-14T08:17:03&apos;
+System info: host: &apos;192.168.1.28&apos;, ip: &apos;fe80:0:0:0:8e4:61dd:f19f:c717%en0&apos;, os.name: &apos;Mac OS X&apos;, os.arch: &apos;x86_64&apos;, os.version: &apos;12.4&apos;, java.version: &apos;11.0.15.1&apos;
+Driver info: driver.version: IOSDriver
+	at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:214)
+	at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:166)
+	at org.openqa.selenium.remote.JsonWireProtocolResponse.lambda$errorHandler$0(JsonWireProtocolResponse.java:54)
+	at org.openqa.selenium.remote.HandshakeResponse.lambda$getResponseFunction$0(HandshakeResponse.java:30)
+	at org.openqa.selenium.remote.ProtocolHandshake.lambda$createSession$0(ProtocolHandshake.java:126)
+	at java.base/java.util.stream.ReferencePipeline$3$1.accept(ReferencePipeline.java:195)
+	at java.base/java.util.Spliterators$ArraySpliterator.tryAdvance(Spliterators.java:958)
+	at java.base/java.util.stream.ReferencePipeline.forEachWithCancel(ReferencePipeline.java:127)
+	at java.base/java.util.stream.AbstractPipeline.copyIntoWithCancel(AbstractPipeline.java:502)
+	at java.base/java.util.stream.AbstractPipeline.copyInto(AbstractPipeline.java:488)
+	at java.base/java.util.stream.AbstractPipeline.wrapAndCopyInto(AbstractPipeline.java:474)
+	at java.base/java.util.stream.FindOps$FindOp.evaluateSequential(FindOps.java:150)
+	at java.base/java.util.stream.AbstractPipeline.evaluate(AbstractPipeline.java:234)
+	at java.base/java.util.stream.ReferencePipeline.findFirst(ReferencePipeline.java:543)
+	at org.openqa.selenium.remote.ProtocolHandshake.createSession(ProtocolHandshake.java:128)
+	... 45 more
+... Removed 31 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyValidEmailAndPassword">
+                  </a> <!-- verifyValidEmailAndPassword -->
+                  <span class="method-name">verifyValidEmailAndPassword</span>
+                  <div class="stack-trace">java.lang.Throwable: Method UI_Runner.LoginExecution.verifyValidEmailAndPassword() on instance UI_Runner.LoginExecution@7b78ed6a depends on not successfully finished methods 
+[UI_Runner.LoginExecution.verifySelectEventFromMultiEventList() on instance UI_Runner.LoginExecution@7b78ed6a]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+... Removed 15 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyValidOTP">
+                  </a> <!-- verifyValidOTP -->
+                  <span class="method-name">verifyValidOTP</span>
+                  <div class="stack-trace">java.lang.Throwable: Method UI_Runner.LoginExecution.verifyValidOTP() on instance UI_Runner.LoginExecution@7b78ed6a depends on not successfully finished methods 
+[UI_Runner.LoginExecution.verifySelectEventFromMultiEventList() on instance UI_Runner.LoginExecution@7b78ed6a]
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+... Removed 15 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Automation_Mobile-class-skipped -->
+        </div> <!-- panel Automation_Mobile -->
+        <div panel-name="test-xml-Automation_Mobile" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">/Users/rehan/IdeaProjects/Mobile_UI_Automation/suiteRunner/testng.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;https://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite thread-count=&quot;0&quot; name=&quot;Automation Mobile&quot; guice-stage=&quot;DEVELOPMENT&quot;&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;com.hubilo.utils.listners.TestListenerManager&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test thread-count=&quot;0&quot; name=&quot;Mobile Automation Smoke Suite&quot;&gt;
+    &lt;parameter name=&quot;env&quot; value=&quot;${env}&quot;/&gt;
+    &lt;parameter name=&quot;platform&quot; value=&quot;ios&quot;/&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;UI_Runner.LoginExecution&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- Mobile Automation Smoke Suite --&gt;
+&lt;/suite&gt; &lt;!-- Automation Mobile --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Automation_Mobile" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Automation Mobile</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">Mobile Automation Smoke Suite (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Automation_Mobile" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Automation Mobile</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="test-group">
+              <span class="test-group-name">SmokeTest</span>
+              <br/>
+              <div class="method-in-group">
+                <span class="method-in-group-name">verifyDifferentUser</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">verifyEmptyEmailWithoutAndWithConsent</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">verifyEmptyPasswordWithoutAndWithConsents</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">verifyInvalidEmailWithoutAndWithConsent</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">verifyInvalidOTP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">verifyInvalidPasswordWithoutAndWithConsent</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">verifySelectEventFromMultiEventList</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">verifyValidEmailAndPassword</span>
+                <br/>
+              </div> <!-- method-in-group -->
+              <div class="method-in-group">
+                <span class="method-in-group-name">verifyValidOTP</span>
+                <br/>
+              </div> <!-- method-in-group -->
+            </div> <!-- test-group -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Automation_Mobile" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Automation Mobile</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Automation_Mobile');
+function tableData_Automation_Mobile() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(9);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'verifyInvalidPasswordWithoutAndWithConsent')
+data.setCell(0, 2, 'UI_Runner.LoginExecution')
+data.setCell(0, 3, 1);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'verifyInvalidEmailWithoutAndWithConsent')
+data.setCell(1, 2, 'UI_Runner.LoginExecution')
+data.setCell(1, 3, 1);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'verifyEmptyPasswordWithoutAndWithConsents')
+data.setCell(2, 2, 'UI_Runner.LoginExecution')
+data.setCell(2, 3, 1);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'verifySelectEventFromMultiEventList')
+data.setCell(3, 2, 'UI_Runner.LoginExecution')
+data.setCell(3, 3, 1);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'verifyEmptyEmailWithoutAndWithConsent')
+data.setCell(4, 2, 'UI_Runner.LoginExecution')
+data.setCell(4, 3, 0);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'verifyDifferentUser')
+data.setCell(5, 2, 'UI_Runner.LoginExecution')
+data.setCell(5, 3, 0);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'verifyValidEmailAndPassword')
+data.setCell(6, 2, 'UI_Runner.LoginExecution')
+data.setCell(6, 3, 0);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'verifyValidOTP')
+data.setCell(7, 2, 'UI_Runner.LoginExecution')
+data.setCell(7, 3, 0);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'verifyInvalidOTP')
+data.setCell(8, 2, 'UI_Runner.LoginExecution')
+data.setCell(8, 3, 0);
+window.suiteTableData['Automation_Mobile']= { tableData: data, tableDiv: 'times-div-Automation_Mobile'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 4 ms</span>
+              <div id="times-div-Automation_Mobile">
+              </div> <!-- times-div-Automation_Mobile -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Automation_Mobile" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Automation Mobile</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifyEmptyEmailWithoutAndWithConsent</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Test Case ----- verifyEmptyEmailWithoutAndWithConsent skipped due to java.lang.Throwable: Method UI_Runner.LoginExecution.verifyEmptyEmailWithoutAndWithConsent() on instance UI_Runner.LoginExecution@7b78ed6a depends on not successfully finished methods 
+[UI_Runner.LoginExecution.verifySelectEventFromMultiEventList() on instance UI_Runner.LoginExecution@7b78ed6a]</span>
+                <span class="reporter-method-output">Test Case ----- verifyInvalidEmailWithoutAndWithConsent Started</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifyDifferentUser</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Test Case ----- verifyDifferentUser skipped due to java.lang.Throwable: Method UI_Runner.LoginExecution.verifyDifferentUser() on instance UI_Runner.LoginExecution@7b78ed6a depends on not successfully finished methods 
+[UI_Runner.LoginExecution.verifySelectEventFromMultiEventList() on instance UI_Runner.LoginExecution@7b78ed6a]</span>
+                <span class="reporter-method-output">Test Case ----- verifyInvalidOTP Started</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifyInvalidPasswordWithoutAndWithConsent</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Test Case ----- verifyInvalidPasswordWithoutAndWithConsent skipped due to java.lang.Throwable: Method UI_Runner.LoginExecution.verifyInvalidPasswordWithoutAndWithConsent() on instance UI_Runner.LoginExecution@7b78ed6a depends on not successfully finished methods 
+[UI_Runner.LoginExecution.verifySelectEventFromMultiEventList() on instance UI_Runner.LoginExecution@7b78ed6a]</span>
+                <span class="reporter-method-output">Test Case ----- verifyValidEmailAndPassword Started</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifyValidEmailAndPassword</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Test Case ----- verifyValidEmailAndPassword skipped due to java.lang.Throwable: Method UI_Runner.LoginExecution.verifyValidEmailAndPassword() on instance UI_Runner.LoginExecution@7b78ed6a depends on not successfully finished methods 
+[UI_Runner.LoginExecution.verifySelectEventFromMultiEventList() on instance UI_Runner.LoginExecution@7b78ed6a]</span>
+                <span class="reporter-method-output">Test Case ----- verifyDifferentUser Started</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifyInvalidEmailWithoutAndWithConsent</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Test Case ----- verifyInvalidEmailWithoutAndWithConsent skipped due to java.lang.Throwable: Method UI_Runner.LoginExecution.verifyInvalidEmailWithoutAndWithConsent() on instance UI_Runner.LoginExecution@7b78ed6a depends on not successfully finished methods 
+[UI_Runner.LoginExecution.verifySelectEventFromMultiEventList() on instance UI_Runner.LoginExecution@7b78ed6a]</span>
+                <span class="reporter-method-output">Test Case ----- verifyEmptyPasswordWithoutAndWithConsents Started</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifyEmptyPasswordWithoutAndWithConsents</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Test Case ----- verifyEmptyPasswordWithoutAndWithConsents skipped due to java.lang.Throwable: Method UI_Runner.LoginExecution.verifyEmptyPasswordWithoutAndWithConsents() on instance UI_Runner.LoginExecution@7b78ed6a depends on not successfully finished methods 
+[UI_Runner.LoginExecution.verifySelectEventFromMultiEventList() on instance UI_Runner.LoginExecution@7b78ed6a]</span>
+                <span class="reporter-method-output">Test Case ----- verifyInvalidPasswordWithoutAndWithConsent Started</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifyValidOTP</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Test Case ----- verifyValidOTP skipped due to java.lang.Throwable: Method UI_Runner.LoginExecution.verifyValidOTP() on instance UI_Runner.LoginExecution@7b78ed6a depends on not successfully finished methods 
+[UI_Runner.LoginExecution.verifySelectEventFromMultiEventList() on instance UI_Runner.LoginExecution@7b78ed6a]</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifySelectEventFromMultiEventList(com.hubilo.pojo.ui.LoginData@2f11d889)</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Test Case ----- verifySelectEventFromMultiEventList skipped due to org.openqa.selenium.SessionNotCreatedException: Unable to create a new remote session. Please check the server log for more details. Original error: The requested resource could not be found, or a request was received using an HTTP method that is not supported by the mapped resource (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 1.35 seconds
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: '192.168.1.28', ip: 'fe80:0:0:0:8e4:61dd:f19f:c717%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.4', java.version: '11.0.15.1'
+Driver info: driver.version: IOSDriver
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: '192.168.1.28', ip: 'fe80:0:0:0:8e4:61dd:f19f:c717%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.4', java.version: '11.0.15.1'
+Driver info: driver.version: IOSDriver</span>
+                <span class="reporter-method-output">Test Case ----- verifyEmptyEmailWithoutAndWithConsent Started</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifyInvalidOTP</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output">Test Case ----- verifyInvalidOTP skipped due to java.lang.Throwable: Method UI_Runner.LoginExecution.verifyInvalidOTP() on instance UI_Runner.LoginExecution@7b78ed6a depends on not successfully finished methods 
+[UI_Runner.LoginExecution.verifySelectEventFromMultiEventList() on instance UI_Runner.LoginExecution@7b78ed6a]</span>
+                <span class="reporter-method-output">Test Case ----- verifyValidOTP Started</span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Automation_Mobile" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">0 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Automation_Mobile" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">UI_Runner.LoginExecution</div> <!-- chronological-class-name -->
+              <div class="configuration-class before">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">init(${env}, ios)</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-class before -->
+              <div class="test-method">
+                <span class="method-name">verifySelectEventFromMultiEventList(com.hubilo.pojo.ui.LoginData@2f11d889)</span>
+                <span class="method-start">13715 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">verifyEmptyEmailWithoutAndWithConsent</span>
+                <span class="method-start">13770 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">verifyInvalidEmailWithoutAndWithConsent</span>
+                <span class="method-start">13788 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">verifyEmptyPasswordWithoutAndWithConsents</span>
+                <span class="method-start">13800 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">verifyInvalidPasswordWithoutAndWithConsent</span>
+                <span class="method-start">13806 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">verifyValidEmailAndPassword</span>
+                <span class="method-start">13818 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">verifyDifferentUser</span>
+                <span class="method-start">13834 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">verifyInvalidOTP</span>
+                <span class="method-start">13842 ms</span>
+              </div> <!-- test-method -->
+              <div class="test-method">
+                <span class="method-name">verifyValidOTP</span>
+                <span class="method-start">13851 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-test after">
+                <span class="method-name">quit</span>
+                <span class="method-start">13860 ms</span>
+              </div> <!-- configuration-test after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+<script type="text/javascript" src="testng-reports2.js"></script>
+</html>

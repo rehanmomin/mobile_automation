@@ -1,0 +1,34 @@
+{
+  "data": {
+    "name": "Testing",
+    "description": "<p>Automation testing</p>",
+    "timezone_id": 94,
+    "start_time_milli": 1658907000000,
+    "end_time_milli": 1659166200000,
+    "linkedin_url": "",
+    "website_url": "",
+    "instagram_url": "",
+    "fb_url": "",
+    "twitter_url": "",
+    "eventMetaTypeId": 1,
+    "eventMetaTypeValue": "",
+    "event_languages": [
+      34,
+      23,
+      25,
+      40,
+      51,
+      59,
+      43,
+      58,
+      67,
+      97,
+      116,
+      102,
+      123,
+      137,
+      142
+    ],
+    "base_language": 34
+  }
+}

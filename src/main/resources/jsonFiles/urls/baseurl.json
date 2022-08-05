@@ -1,0 +1,19 @@
+{
+	"release": {
+		"dashboard": "https://newdashboard.v2release.demohubilo.com/backend/api",
+		"community": "https://newdashboard-api.v2release.demohubilo.com/api",
+		"v2release": "https://api.v2release.demohubilo.com/api"
+	},
+	"production": {
+		"loginreleaseendpoint": "https://newdashboard.v2release.demohubilo.com/backend/api",
+		"releaseendpoint": "https://newdashboard-api.v2release.demohubilo.com/api"
+	},
+	"swat": {
+		"loginreleaseendpoint": "https://newdashboard.v2release.demohubilo.com/backend/api",
+		"releaseendpoint": "https://newdashboard-api.v2release.demohubilo.com/api"
+	},
+	"matrixqa": {
+		"loginreleaseendpoint": "https://newdashboard.v2release.demohubilo.com/backend/api",
+		"releaseendpoint": "https://newdashboard-api.v2release.demohubilo.com/api"
+	}
+}

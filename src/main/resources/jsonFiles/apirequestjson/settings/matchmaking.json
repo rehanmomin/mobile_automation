@@ -1,0 +1,11 @@
+{
+  "data": {
+    "is_interest": 1,
+    "is_industry": 1,
+    "is_looking_for": 1,
+    "is_custom_tag": 1,
+    "interest_name": "Interest",
+    "industry_name": "Industry",
+    "custom_tag_name": "Custom Tags"
+  }
+}

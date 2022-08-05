@@ -1,0 +1,145 @@
+{
+  "sigup": [
+    {
+      "TC_NAME": "Empty First Name",
+      "EMAIL": "test@hubilo.com",
+      "FIRST_NAME": "",
+      "LAST_NAME": "Macron",
+      "NEW_PASSWORD": "qwerty@12",
+      "CONFIRM_PASSWORD": "qwerty@12"
+    },
+    {
+      "TC_NAME": "Empty Last Name",
+      "EMAIL": "test@hubilo.com",
+      "FIRST_NAME": "Samual",
+      "LAST_NAME": "",
+      "NEW_PASSWORD": "qwerty@12",
+      "CONFIRM_PASSWORD": "qwerty@12"
+    },
+    {
+      "TC_NAME": "Empty password",
+      "EMAIL": "ps+2211@hubilo.com",
+      "FIRST_NAME": "Samual",
+      "LAST_NAME": "Macron",
+      "NEW_PASSWORD": "",
+      "CONFIRM_PASSWORD": "qwerty@12"
+    },
+    {
+      "TC_NAME": "Empty confirm password",
+      "EMAIL": "ps+2211@hubilo.com",
+      "FIRST_NAME": "Samual",
+      "LAST_NAME": "Macron",
+      "NEW_PASSWORD": "qwerty@12",
+      "CONFIRM_PASSWORD": ""
+    },
+    {
+      "TC_NAME": "Empty all",
+      "EMAIL": "ps+2211@hubilo.com",
+      "FIRST_NAME": "",
+      "LAST_NAME": "",
+      "NEW_PASSWORD": "",
+      "CONFIRM_PASSWORD": ""
+    },
+    {
+      "TC_NAME": "Mis-match password and confirm password",
+      "EMAIL": "ps+2211@hubilo.com",
+      "FIRST_NAME": "Samual",
+      "LAST_NAME": "Macron",
+      "NEW_PASSWORD": "qwerty@12",
+      "CONFIRM_PASSWORD": "qwerty"
+    },
+    {
+      "TC_NAME": "Long text in all fields",
+      "EMAIL": "test@hubilo.com",
+      "FIRST_NAME": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+      "LAST_NAME": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+      "NEW_PASSWORD": "qwerty@12Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+      "CONFIRM_PASSWORD": "qwerty@1Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum2"
+    }
+  ],
+  "onboarding_profile": [
+    {
+      "TC_NAME": "Bulk Test data 1",
+      "EMAIL": "test@hubilo.com",
+      "FIRST_NAME": "Test",
+      "LAST_NAME": "Qa",
+      "GENDER": "Male",
+      "ABOUT": "It can be challenging to write about yourself. However",
+      "DESIGNATION": "Customer Support",
+      "ORGANISATION": "Amazon India",
+      "COUNTRY": "Denmark",
+      "STATE": "Hovedstaden",
+      "CITY": "Noida",
+      "INDUSTRY": "Finance",
+      "WEBSITE": "https://hubilo.com",
+      "FACEBOOK": "https://facebook.com",
+      "LINKEDIN": "https://linkedin.com",
+      "TWITTER": "https://twitter.com",
+      "INSTAGRAM": "https://instagram.com",
+      "LOOKING_FOR": "Sponsors",
+      "OFFERING": "Analyst",
+      "INTEREST": "Security",
+      "PASSWORD": "qwerty@12",
+      "OTP": "1234"
+    },
+    {
+      "TC_NAME": "Bulk Test data 2",
+      "EMAIL": "sam@hubilo.com",
+      "FIRST_NAME": "Samual",
+      "LAST_NAME": "Macron",
+      "GENDER": "Male",
+      "ABOUT": "This is about section text new data",
+      "DESIGNATION": "SDET QA",
+      "ORGANISATION": "Hubilo",
+      "COUNTRY": "Andorra",
+      "STATE": "Ordino",
+      "CITY": "Bangluru",
+      "INDUSTRY": "Banking",
+      "WEBSITE": "https://hubilo.com",
+      "FACEBOOK": "https://facebook.com",
+      "LINKEDIN": "https://linkedin.com",
+      "TWITTER": "https://twitter.com",
+      "INSTAGRAM": "https://instagram.com",
+      "LOOKING_FOR": "Intern",
+      "OFFERING": "Designer",
+      "INTEREST": "Consulting",
+      "PASSWORD": "qwerty@12",
+      "OTP": "1234"
+    }
+
+  ],
+  "chat": [
+    {
+      "TC_NAME": "lower case alpha-numeric",
+      "MESSAGE": "testing123456"
+    },
+    {
+      "TC_NAME": "numeric",
+      "MESSAGE": "123456"
+    },
+    {
+      "TC_NAME": "upper case alpha-numeric",
+      "MESSAGE": "TESTING123456"
+    },
+    {
+      "TC_NAME": "alphabetic only",
+      "MESSAGE": "HaMpDeN SyDnEy cOlLeGe iN ViRgInIa"
+    },
+    {
+      "TC_NAME": "lower case alphabetic only",
+      "MESSAGE": "this is lower case testing"
+    },
+    {
+      "TC_NAME": "upper case case alphabetic only",
+      "MESSAGE": "CONTRARY TO POPULAR BELIEF"
+    },
+    {
+      "TC_NAME": "long upper case alpha-numeric",
+      "MESSAGE": "CONTRARY TO POPULAR BELIEF, LOREM IPSUM IS NOT SIMPLY RANDOM TEXT. IT HAS ROOTS IN A PIECE OF CLASSICAL LATIN LITERATURE FROM 45 BC, MAKING IT OVER 2000 YEARS OLD. RICHARD MCCLINTOCK, A LATIN PROFESSOR AT HAMPDEN-SYDNEY COLLEGE IN VIRGINIA, LOOKED UP"
+    },
+    {
+      "TC_NAME": "long lower case alpha-numeric",
+      "MESSAGE": "contrary to popular belief, lorem ipsum is not simply random text. it has roots in a piece of classical latin literature from 45 bc, making it over 2000 years old. richard mcclintock, a latin professor at hampden-sydney college in virginia, looked up"
+    }
+  ]
+}

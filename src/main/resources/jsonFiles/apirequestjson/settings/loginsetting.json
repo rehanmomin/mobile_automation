@@ -1,0 +1,15 @@
+{
+  "data": {
+    "is_restrict": 0,
+    "default_custom_otp": "123",
+    "support_email": "",
+    "is_system": 1  ,
+    "is_facebook": 1,
+    "is_linkedin": 1,
+    "is_google": 1,
+    "is_signup": 1,
+    "is_sso": 0,
+    "is_allow_login": 1,
+    "is_sso_connected": false
+  }
+}

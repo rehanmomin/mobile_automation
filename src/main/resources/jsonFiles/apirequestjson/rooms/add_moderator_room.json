@@ -1,0 +1,34 @@
+{
+  "data": {
+    "roomId": "",
+    "name": "mod room",
+    "roomType": "MULTIPLE",
+    "description": "mod room testing",
+    "roomStartMilli": null,
+    "roomExipryMilli": null,
+    "joinPermission": "ANYONE",
+    "shareAVPermission": "MODERATED",
+    "joinPermissionGroups": "",
+    "avAcceptPermissionUsers": [
+      "62a2098ccb292c2776707b36"
+    ],
+    "roomCode": "",
+    "isRecodingAllow": "NO",
+    "maximumVideo": "12",
+    "priority": "5",
+    "banner": "",
+    "exhibitor_id": "",
+    "isRecodingEnableForModerator": 0,
+    "exhibitor": "",
+    "isFeatured": "YES",
+    "isChat": "YES",
+    "isQandA": "YES",
+    "isModerateQandA": "NO",
+    "isAnonymousQandA": "YES",
+    "isPolls": "YES",
+    "isParticipant": "YES",
+    "isRoomInfo": "NO",
+    "isDominantColor": true,
+    "isAttRxn": "YES"
+  }
+}

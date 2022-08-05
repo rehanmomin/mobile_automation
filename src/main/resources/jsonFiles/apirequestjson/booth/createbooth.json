@@ -1,0 +1,39 @@
+{
+  "data": {
+    "name": "booth1",
+    "position": 0,
+    "category": "Exhibitors",
+    "description": "",
+    "phone_code": "",
+    "phone": "",
+    "email": "",
+    "location": "",
+    "fb_url": "",
+    "twitter_url": "",
+    "linked_url": "",
+    "whatsapp_no": "",
+    "website_url": "",
+    "instagram_url": "",
+    "is_rating": false,
+    "is_featured": true,
+    "tags": "",
+    "booth_size": "SMALL",
+    "spotlight_banner_type": "IMAGE",
+    "productLabel": "Products/Services",
+    "profile_img": "",
+    "spotlight_banner": [
+      {
+        "img_file_name": ""
+      }
+    ],
+    "list_banner_image": [
+      {}
+    ],
+    "small_banner_image": [
+      {
+        "img_file_name": ""
+      }
+    ],
+    "multiple_file": []
+  }
+}

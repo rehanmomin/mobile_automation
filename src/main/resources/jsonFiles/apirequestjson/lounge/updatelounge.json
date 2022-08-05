@@ -1,0 +1,17 @@
+{
+  "data": {
+    "name": "Automation testing lounge",
+    "topic": "Automation",
+    "capacity": 8,
+    "lounge_image": "",
+    "priority": 1,
+    "table_type": "EXHIBITOR",
+    "meetingLimit": 0,
+    "sourceId": 458702,
+    "exhibitorData": {
+      "id": 458702,
+      "name": "booth1233456"
+    },
+    "meeting_limit": 0
+  }
+}

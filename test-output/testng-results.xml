@@ -1,0 +1,2033 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="30" passed="10" failed="19" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Start ----- Mobile Automation Smoke Suite-----]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifySelectEventFromMultiEventList Started]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifySelectEventFromMultiEventList PASS]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifyEmptyEmailWithoutAndWithConsent Started]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifyEmptyEmailWithoutAndWithConsent PASS]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifyInvalidEmailWithoutAndWithConsent Started]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifyInvalidEmailWithoutAndWithConsent PASS]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifyEmptyPasswordWithoutAndWithConsents Started]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifyEmptyPasswordWithoutAndWithConsents PASS]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifyInvalidPasswordWithoutAndWithConsent Started]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifyInvalidPasswordWithoutAndWithConsent PASS]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifyValidEmailAndPassword Started]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifyValidEmailAndPassword PASS]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifyDifferentUser Started]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifyDifferentUser PASS]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifyInvalidOTP Started]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifyInvalidOTP PASS]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifyValidOTP Started]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifyValidOTP PASS]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifyMultiEventAndLoginScreen Started]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifyMultiEventAndLoginScreen PASS]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifyLoginRestricted Started]]>
+    </line>
+    <line>
+      <![CDATA[verifyLoginRestricted***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifyOTPLogin Started]]>
+    </line>
+    <line>
+      <![CDATA[verifyOTPLogin***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifySignupDataSet Started]]>
+    </line>
+    <line>
+      <![CDATA[verifySignupDataSet***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifySignupDataSet Started]]>
+    </line>
+    <line>
+      <![CDATA[verifySignupDataSet***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifySignupDataSet Started]]>
+    </line>
+    <line>
+      <![CDATA[verifySignupDataSet***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifySignupDataSet Started]]>
+    </line>
+    <line>
+      <![CDATA[verifySignupDataSet***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifySignupDataSet Started]]>
+    </line>
+    <line>
+      <![CDATA[verifySignupDataSet***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifySignupDataSet Started]]>
+    </line>
+    <line>
+      <![CDATA[verifySignupDataSet***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifySignupDataSet Started]]>
+    </line>
+    <line>
+      <![CDATA[verifySignupDataSet***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifyBackLoginNow Started]]>
+    </line>
+    <line>
+      <![CDATA[verifyBackLoginNow***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifyBackButton Started]]>
+    </line>
+    <line>
+      <![CDATA[verifyBackButton***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifySignUpDetails Started]]>
+    </line>
+    <line>
+      <![CDATA[verifySignUpDetails***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifyOnboardingDetails Started]]>
+    </line>
+    <line>
+      <![CDATA[verifyOnboardingDetails***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.id: ic logout})]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifyOnboardingDetails Started]]>
+    </line>
+    <line>
+      <![CDATA[verifyOnboardingDetails***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.id: ic logout})]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifyBackgroundCover Started]]>
+    </line>
+    <line>
+      <![CDATA[verifyBackgroundCover***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.IosClassChain: **/XCUIElementTypeStaticText[`label == "Next"`]})]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifySocialDetails Started]]>
+    </line>
+    <line>
+      <![CDATA[verifySocialDetails***java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifyLookingForAndOffering Started]]>
+    </line>
+    <line>
+      <![CDATA[verifyLookingForAndOffering***org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Located by By.chained({By.IosClassChain: **/XCUIElementTypeTextField[`value == "Select looking for"`]}) (tried for 10 second(s) with 1000 milliseconds interval)]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifyInterests Started]]>
+    </line>
+    <line>
+      <![CDATA[verifyInterests***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.IosClassChain: **/XCUIElementTypeTextField[`value == "Search"`]})]]>
+    </line>
+    <line>
+      <![CDATA[Test Case ----- verifyOnboardingDisable Started]]>
+    </line>
+    <line>
+      <![CDATA[verifyOnboardingDisable***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //XCUIElementTypeTextView[@name="I agree to the Terms and Conditions and Privacy Policy"]/../..//XCUIElementTypeButton})]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2022-08-05T10:21:19 IST" name="Automation Mobile" finished-at="2022-08-05T10:33:59 IST" duration-ms="760161">
+    <groups>
+      <group name="SmokeTest">
+        <method signature="LoginExecution.verifySelectEventFromMultiEventList(com.hubilo.pojo.ui.LoginData)[pri:1, instance:UI_Runner.LoginExecution@58516c91]" name="verifySelectEventFromMultiEventList" class="UI_Runner.LoginExecution"/>
+        <method signature="SignUpExecution.verifyMultiEventAndLoginScreen(com.hubilo.pojo.ui.LoginData)[pri:1, instance:UI_Runner.SignUpExecution@23382f76]" name="verifyMultiEventAndLoginScreen" class="UI_Runner.SignUpExecution"/>
+        <method signature="LoginExecution.verifyEmptyEmailWithoutAndWithConsent(com.hubilo.pojo.ui.LoginData)[pri:2, instance:UI_Runner.LoginExecution@58516c91]" name="verifyEmptyEmailWithoutAndWithConsent" class="UI_Runner.LoginExecution"/>
+        <method signature="SignUpExecution.verifyLoginRestricted(com.hubilo.pojo.ui.SignUpData)[pri:2, instance:UI_Runner.SignUpExecution@23382f76]" name="verifyLoginRestricted" class="UI_Runner.SignUpExecution"/>
+        <method signature="LoginExecution.verifyInvalidEmailWithoutAndWithConsent(com.hubilo.pojo.ui.LoginData)[pri:3, instance:UI_Runner.LoginExecution@58516c91]" name="verifyInvalidEmailWithoutAndWithConsent" class="UI_Runner.LoginExecution"/>
+        <method signature="SignUpExecution.verifyOTPLogin(com.hubilo.pojo.ui.LoginData)[pri:3, instance:UI_Runner.SignUpExecution@23382f76]" name="verifyOTPLogin" class="UI_Runner.SignUpExecution"/>
+        <method signature="LoginExecution.verifyEmptyPasswordWithoutAndWithConsents(com.hubilo.pojo.ui.LoginData)[pri:4, instance:UI_Runner.LoginExecution@58516c91]" name="verifyEmptyPasswordWithoutAndWithConsents" class="UI_Runner.LoginExecution"/>
+        <method signature="SignUpExecution.verifySignupDataSet(com.hubilo.pojo.ui.BSignUp)[pri:4, instance:UI_Runner.SignUpExecution@23382f76]" name="verifySignupDataSet" class="UI_Runner.SignUpExecution"/>
+        <method signature="LoginExecution.verifyInvalidPasswordWithoutAndWithConsent(com.hubilo.pojo.ui.LoginData)[pri:5, instance:UI_Runner.LoginExecution@58516c91]" name="verifyInvalidPasswordWithoutAndWithConsent" class="UI_Runner.LoginExecution"/>
+        <method signature="SignUpExecution.verifyBackLoginNow(com.hubilo.pojo.ui.SignUpData)[pri:5, instance:UI_Runner.SignUpExecution@23382f76]" name="verifyBackLoginNow" class="UI_Runner.SignUpExecution"/>
+        <method signature="LoginExecution.verifyValidEmailAndPassword(com.hubilo.pojo.ui.LoginData)[pri:6, instance:UI_Runner.LoginExecution@58516c91]" name="verifyValidEmailAndPassword" class="UI_Runner.LoginExecution"/>
+        <method signature="SignUpExecution.verifyBackButton(com.hubilo.pojo.ui.SignUpData)[pri:6, instance:UI_Runner.SignUpExecution@23382f76]" name="verifyBackButton" class="UI_Runner.SignUpExecution"/>
+        <method signature="LoginExecution.verifyDifferentUser(com.hubilo.pojo.ui.LoginData)[pri:7, instance:UI_Runner.LoginExecution@58516c91]" name="verifyDifferentUser" class="UI_Runner.LoginExecution"/>
+        <method signature="SignUpExecution.verifySignUpDetails(com.hubilo.pojo.ui.SignUpData)[pri:7, instance:UI_Runner.SignUpExecution@23382f76]" name="verifySignUpDetails" class="UI_Runner.SignUpExecution"/>
+        <method signature="LoginExecution.verifyInvalidOTP(com.hubilo.pojo.ui.LoginData)[pri:8, instance:UI_Runner.LoginExecution@58516c91]" name="verifyInvalidOTP" class="UI_Runner.LoginExecution"/>
+        <method signature="SignUpExecution.verifyOnboardingDetails(com.hubilo.pojo.ui.BProfileOnboarding)[pri:8, instance:UI_Runner.SignUpExecution@23382f76]" name="verifyOnboardingDetails" class="UI_Runner.SignUpExecution"/>
+        <method signature="LoginExecution.verifyValidOTP(com.hubilo.pojo.ui.LoginData)[pri:9, instance:UI_Runner.LoginExecution@58516c91]" name="verifyValidOTP" class="UI_Runner.LoginExecution"/>
+        <method signature="SignUpExecution.verifyBackgroundCover(com.hubilo.pojo.ui.SignUpData)[pri:9, instance:UI_Runner.SignUpExecution@23382f76]" name="verifyBackgroundCover" class="UI_Runner.SignUpExecution"/>
+        <method signature="SignUpExecution.verifySocialDetails(com.hubilo.pojo.ui.SignUpData)[pri:10, instance:UI_Runner.SignUpExecution@23382f76]" name="verifySocialDetails" class="UI_Runner.SignUpExecution"/>
+        <method signature="SignUpExecution.verifyLookingForAndOffering(com.hubilo.pojo.ui.SignUpData)[pri:11, instance:UI_Runner.SignUpExecution@23382f76]" name="verifyLookingForAndOffering" class="UI_Runner.SignUpExecution"/>
+        <method signature="SignUpExecution.verifyInterests(com.hubilo.pojo.ui.SignUpData)[pri:12, instance:UI_Runner.SignUpExecution@23382f76]" name="verifyInterests" class="UI_Runner.SignUpExecution"/>
+        <method signature="SignUpExecution.verifyOnboardingDisable(com.hubilo.pojo.ui.SignUpData)[pri:13, instance:UI_Runner.SignUpExecution@23382f76]" name="verifyOnboardingDisable" class="UI_Runner.SignUpExecution"/>
+      </group> <!-- SmokeTest -->
+    </groups>
+    <test started-at="2022-08-05T10:21:19 IST" name="Mobile Automation Smoke Suite" finished-at="2022-08-05T10:33:59 IST" duration-ms="760161">
+      <class name="UI_Runner.LoginExecution">
+        <test-method is-config="true" signature="init(java.lang.String,java.lang.String)[pri:0, instance:UI_Runner.LoginExecution@58516c91]" started-at="2022-08-05T10:21:19 IST" name="init" finished-at="2022-08-05T10:22:18 IST" duration-ms="58404" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[${env}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[iOS]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="verifySelectEventFromMultiEventList(com.hubilo.pojo.ui.LoginData)[pri:1, instance:UI_Runner.LoginExecution@58516c91]" started-at="2022-08-05T10:22:19 IST" name="verifySelectEventFromMultiEventList" data-provider="loginDataJson" finished-at="2022-08-05T10:23:22 IST" duration-ms="63739" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.hubilo.pojo.ui.LoginData@4dd425dc]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case ----- verifySelectEventFromMultiEventList Started]]>
+            </line>
+            <line>
+              <![CDATA[Test Case ----- verifySelectEventFromMultiEventList PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySelectEventFromMultiEventList -->
+        <test-method signature="verifyEmptyEmailWithoutAndWithConsent(com.hubilo.pojo.ui.LoginData)[pri:2, instance:UI_Runner.LoginExecution@58516c91]" started-at="2022-08-05T10:23:23 IST" name="verifyEmptyEmailWithoutAndWithConsent" data-provider="loginDataJson" finished-at="2022-08-05T10:23:23 IST" depends-on-methods="UI_Runner.LoginExecution.verifySelectEventFromMultiEventList" duration-ms="25" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.hubilo.pojo.ui.LoginData@3b76809d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case ----- verifyEmptyEmailWithoutAndWithConsent Started]]>
+            </line>
+            <line>
+              <![CDATA[Test Case ----- verifyEmptyEmailWithoutAndWithConsent PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyEmptyEmailWithoutAndWithConsent -->
+        <test-method signature="verifyInvalidEmailWithoutAndWithConsent(com.hubilo.pojo.ui.LoginData)[pri:3, instance:UI_Runner.LoginExecution@58516c91]" started-at="2022-08-05T10:23:23 IST" name="verifyInvalidEmailWithoutAndWithConsent" data-provider="loginDataJson" finished-at="2022-08-05T10:23:23 IST" depends-on-methods="UI_Runner.LoginExecution.verifySelectEventFromMultiEventList" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.hubilo.pojo.ui.LoginData@6c648d16]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case ----- verifyInvalidEmailWithoutAndWithConsent Started]]>
+            </line>
+            <line>
+              <![CDATA[Test Case ----- verifyInvalidEmailWithoutAndWithConsent PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidEmailWithoutAndWithConsent -->
+        <test-method signature="verifyEmptyPasswordWithoutAndWithConsents(com.hubilo.pojo.ui.LoginData)[pri:4, instance:UI_Runner.LoginExecution@58516c91]" started-at="2022-08-05T10:23:23 IST" name="verifyEmptyPasswordWithoutAndWithConsents" data-provider="loginDataJson" finished-at="2022-08-05T10:23:23 IST" depends-on-methods="UI_Runner.LoginExecution.verifySelectEventFromMultiEventList" duration-ms="7" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.hubilo.pojo.ui.LoginData@31857c80]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case ----- verifyEmptyPasswordWithoutAndWithConsents Started]]>
+            </line>
+            <line>
+              <![CDATA[Test Case ----- verifyEmptyPasswordWithoutAndWithConsents PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyEmptyPasswordWithoutAndWithConsents -->
+        <test-method signature="verifyInvalidPasswordWithoutAndWithConsent(com.hubilo.pojo.ui.LoginData)[pri:5, instance:UI_Runner.LoginExecution@58516c91]" started-at="2022-08-05T10:23:23 IST" name="verifyInvalidPasswordWithoutAndWithConsent" data-provider="loginDataJson" finished-at="2022-08-05T10:23:23 IST" depends-on-methods="UI_Runner.LoginExecution.verifySelectEventFromMultiEventList" duration-ms="8" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.hubilo.pojo.ui.LoginData@48b9ee43]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case ----- verifyInvalidPasswordWithoutAndWithConsent Started]]>
+            </line>
+            <line>
+              <![CDATA[Test Case ----- verifyInvalidPasswordWithoutAndWithConsent PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidPasswordWithoutAndWithConsent -->
+        <test-method signature="verifyValidEmailAndPassword(com.hubilo.pojo.ui.LoginData)[pri:6, instance:UI_Runner.LoginExecution@58516c91]" started-at="2022-08-05T10:23:23 IST" name="verifyValidEmailAndPassword" data-provider="loginDataJson" finished-at="2022-08-05T10:23:30 IST" depends-on-methods="UI_Runner.LoginExecution.verifySelectEventFromMultiEventList" duration-ms="7338" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.hubilo.pojo.ui.LoginData@1161786f]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case ----- verifyValidEmailAndPassword Started]]>
+            </line>
+            <line>
+              <![CDATA[Test Case ----- verifyValidEmailAndPassword PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyValidEmailAndPassword -->
+        <test-method signature="verifyDifferentUser(com.hubilo.pojo.ui.LoginData)[pri:7, instance:UI_Runner.LoginExecution@58516c91]" started-at="2022-08-05T10:23:30 IST" name="verifyDifferentUser" data-provider="loginDataJson" finished-at="2022-08-05T10:23:34 IST" depends-on-methods="UI_Runner.LoginExecution.verifySelectEventFromMultiEventList" duration-ms="3973" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.hubilo.pojo.ui.LoginData@7908e69e]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case ----- verifyDifferentUser Started]]>
+            </line>
+            <line>
+              <![CDATA[Test Case ----- verifyDifferentUser PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyDifferentUser -->
+        <test-method signature="verifyInvalidOTP(com.hubilo.pojo.ui.LoginData)[pri:8, instance:UI_Runner.LoginExecution@58516c91]" started-at="2022-08-05T10:23:34 IST" name="verifyInvalidOTP" data-provider="loginDataJson" finished-at="2022-08-05T10:23:42 IST" depends-on-methods="UI_Runner.LoginExecution.verifySelectEventFromMultiEventList" duration-ms="8046" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.hubilo.pojo.ui.LoginData@3a5f0ed5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case ----- verifyInvalidOTP Started]]>
+            </line>
+            <line>
+              <![CDATA[Test Case ----- verifyInvalidOTP PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyInvalidOTP -->
+        <test-method signature="verifyValidOTP(com.hubilo.pojo.ui.LoginData)[pri:9, instance:UI_Runner.LoginExecution@58516c91]" started-at="2022-08-05T10:23:42 IST" name="verifyValidOTP" data-provider="loginDataJson" finished-at="2022-08-05T10:23:50 IST" depends-on-methods="UI_Runner.LoginExecution.verifySelectEventFromMultiEventList" duration-ms="7509" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.hubilo.pojo.ui.LoginData@4a13a4ca]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case ----- verifyValidOTP Started]]>
+            </line>
+            <line>
+              <![CDATA[Test Case ----- verifyValidOTP PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyValidOTP -->
+        <test-method is-config="true" signature="quit()[pri:0, instance:UI_Runner.LoginExecution@58516c91]" started-at="2022-08-05T10:33:59 IST" name="quit" finished-at="2022-08-05T10:33:59 IST" duration-ms="442" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- quit -->
+      </class> <!-- UI_Runner.LoginExecution -->
+      <class name="UI_Runner.SignUpExecution">
+        <test-method is-config="true" signature="init(java.lang.String,java.lang.String)[pri:0, instance:UI_Runner.SignUpExecution@23382f76]" started-at="2022-08-05T10:23:50 IST" name="init" finished-at="2022-08-05T10:23:55 IST" duration-ms="4956" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[${env}]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[iOS]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="verifyMultiEventAndLoginScreen(com.hubilo.pojo.ui.LoginData)[pri:1, instance:UI_Runner.SignUpExecution@23382f76]" started-at="2022-08-05T10:23:55 IST" name="verifyMultiEventAndLoginScreen" data-provider="loginDataJson" finished-at="2022-08-05T10:23:58 IST" duration-ms="3102" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.hubilo.pojo.ui.LoginData@43bb76d0]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case ----- verifyMultiEventAndLoginScreen Started]]>
+            </line>
+            <line>
+              <![CDATA[Test Case ----- verifyMultiEventAndLoginScreen PASS]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyMultiEventAndLoginScreen -->
+        <test-method signature="verifyLoginRestricted(com.hubilo.pojo.ui.SignUpData)[pri:2, instance:UI_Runner.SignUpExecution@23382f76]" started-at="2022-08-05T10:23:58 IST" name="verifyLoginRestricted" data-provider="signUpDataJson" finished-at="2022-08-05T10:24:30 IST" duration-ms="32335" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.hubilo.pojo.ui.SignUpData@4f1d97d8]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
+at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+at io.appium.java_client.ios.IOSElement$$EnhancerByCGLIB$$d311658.sendKeys(<generated>)
+at com.hubilo.pageobjects.functions.SignUp.verifyEmailRestricted(SignUp.java:99)
+at com.hubilo.pageobjects.functions.SignUp.verifySignUp(SignUp.java:31)
+at UI_Runner.SignUpExecution.verifyLoginRestricted(SignUpExecution.java:48)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@38b1101c (tried for 1 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+... 32 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HUBLAPIND-401.local', ip: '2405:201:4029:30fa:eca2:d797:6f18:fa76%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.3.1', java.version: '11.0.15'
+Driver info: driver.version: IOSDriver
+at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 34 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case ----- verifyLoginRestricted Started]]>
+            </line>
+            <line>
+              <![CDATA[verifyLoginRestricted***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLoginRestricted -->
+        <test-method signature="verifyOTPLogin(com.hubilo.pojo.ui.LoginData)[pri:3, instance:UI_Runner.SignUpExecution@23382f76]" started-at="2022-08-05T10:24:31 IST" name="verifyOTPLogin" data-provider="loginDataJson" finished-at="2022-08-05T10:25:03 IST" duration-ms="32234" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.hubilo.pojo.ui.LoginData@1492c9d]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
+at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+at io.appium.java_client.ios.IOSElement$$EnhancerByCGLIB$$d311658.clear(<generated>)
+at com.hubilo.pageobjects.functions.SignUp.sendEmailID(SignUp.java:153)
+at com.hubilo.pageobjects.functions.SignUp.verifyWithNewLogin(SignUp.java:145)
+at UI_Runner.SignUpExecution.verifyOTPLogin(SignUpExecution.java:59)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@302f535b (tried for 1 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+... 32 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HUBLAPIND-401.local', ip: '2405:201:4029:30fa:eca2:d797:6f18:fa76%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.3.1', java.version: '11.0.15'
+Driver info: driver.version: IOSDriver
+at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 34 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case ----- verifyOTPLogin Started]]>
+            </line>
+            <line>
+              <![CDATA[verifyOTPLogin***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyOTPLogin -->
+        <test-method signature="verifySignupDataSet(com.hubilo.pojo.ui.BSignUp)[pri:4, instance:UI_Runner.SignUpExecution@23382f76]" started-at="2022-08-05T10:25:04 IST" name="verifySignupDataSet" data-provider="bulkSignUp" finished-at="2022-08-05T10:25:34 IST" duration-ms="30192" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.hubilo.pojo.ui.BSignUp@714f3e27]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
+at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+at io.appium.java_client.ios.IOSElement$$EnhancerByCGLIB$$d311658.getText(<generated>)
+at com.hubilo.pageobjects.functions.SignUp.setEmail(SignUp.java:111)
+at com.hubilo.pageobjects.functions.SignUp.verifySignUpData(SignUp.java:37)
+at UI_Runner.SignUpExecution.verifySignupDataSet(SignUpExecution.java:69)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@d3fa0e1 (tried for 1 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+... 32 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HUBLAPIND-401.local', ip: '2405:201:4029:30fa:eca2:d797:6f18:fa76%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.3.1', java.version: '11.0.15'
+Driver info: driver.version: IOSDriver
+at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 34 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case ----- verifySignupDataSet Started]]>
+            </line>
+            <line>
+              <![CDATA[verifySignupDataSet***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySignupDataSet -->
+        <test-method signature="verifySignupDataSet(com.hubilo.pojo.ui.BSignUp)[pri:4, instance:UI_Runner.SignUpExecution@23382f76]" started-at="2022-08-05T10:25:34 IST" name="verifySignupDataSet" data-provider="bulkSignUp" finished-at="2022-08-05T10:26:05 IST" duration-ms="31075" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.hubilo.pojo.ui.BSignUp@34634dff]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
+at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+at io.appium.java_client.ios.IOSElement$$EnhancerByCGLIB$$d311658.getText(<generated>)
+at com.hubilo.pageobjects.functions.SignUp.setEmail(SignUp.java:111)
+at com.hubilo.pageobjects.functions.SignUp.verifySignUpData(SignUp.java:37)
+at UI_Runner.SignUpExecution.verifySignupDataSet(SignUpExecution.java:69)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@4310d985 (tried for 1 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+... 32 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HUBLAPIND-401.local', ip: '2405:201:4029:30fa:eca2:d797:6f18:fa76%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.3.1', java.version: '11.0.15'
+Driver info: driver.version: IOSDriver
+at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 34 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case ----- verifySignupDataSet Started]]>
+            </line>
+            <line>
+              <![CDATA[verifySignupDataSet***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySignupDataSet -->
+        <test-method signature="verifySignupDataSet(com.hubilo.pojo.ui.BSignUp)[pri:4, instance:UI_Runner.SignUpExecution@23382f76]" started-at="2022-08-05T10:26:05 IST" name="verifySignupDataSet" data-provider="bulkSignUp" finished-at="2022-08-05T10:26:36 IST" duration-ms="30319" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.hubilo.pojo.ui.BSignUp@eeb1cac]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
+at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+at io.appium.java_client.ios.IOSElement$$EnhancerByCGLIB$$d311658.getText(<generated>)
+at com.hubilo.pageobjects.functions.SignUp.setEmail(SignUp.java:111)
+at com.hubilo.pageobjects.functions.SignUp.verifySignUpData(SignUp.java:37)
+at UI_Runner.SignUpExecution.verifySignupDataSet(SignUpExecution.java:69)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@6a651151 (tried for 1 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+... 32 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HUBLAPIND-401.local', ip: '2405:201:4029:30fa:eca2:d797:6f18:fa76%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.3.1', java.version: '11.0.15'
+Driver info: driver.version: IOSDriver
+at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 34 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case ----- verifySignupDataSet Started]]>
+            </line>
+            <line>
+              <![CDATA[verifySignupDataSet***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySignupDataSet -->
+        <test-method signature="verifySignupDataSet(com.hubilo.pojo.ui.BSignUp)[pri:4, instance:UI_Runner.SignUpExecution@23382f76]" started-at="2022-08-05T10:26:36 IST" name="verifySignupDataSet" data-provider="bulkSignUp" finished-at="2022-08-05T10:27:06 IST" duration-ms="30242" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.hubilo.pojo.ui.BSignUp@40b4a59c]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
+at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+at io.appium.java_client.ios.IOSElement$$EnhancerByCGLIB$$d311658.getText(<generated>)
+at com.hubilo.pageobjects.functions.SignUp.setEmail(SignUp.java:111)
+at com.hubilo.pageobjects.functions.SignUp.verifySignUpData(SignUp.java:37)
+at UI_Runner.SignUpExecution.verifySignupDataSet(SignUpExecution.java:69)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@efc5686 (tried for 1 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+... 32 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HUBLAPIND-401.local', ip: '2405:201:4029:30fa:eca2:d797:6f18:fa76%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.3.1', java.version: '11.0.15'
+Driver info: driver.version: IOSDriver
+at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 34 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case ----- verifySignupDataSet Started]]>
+            </line>
+            <line>
+              <![CDATA[verifySignupDataSet***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySignupDataSet -->
+        <test-method signature="verifySignupDataSet(com.hubilo.pojo.ui.BSignUp)[pri:4, instance:UI_Runner.SignUpExecution@23382f76]" started-at="2022-08-05T10:27:06 IST" name="verifySignupDataSet" data-provider="bulkSignUp" finished-at="2022-08-05T10:27:37 IST" duration-ms="30291" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.hubilo.pojo.ui.BSignUp@47c5b16b]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
+at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+at io.appium.java_client.ios.IOSElement$$EnhancerByCGLIB$$d311658.getText(<generated>)
+at com.hubilo.pageobjects.functions.SignUp.setEmail(SignUp.java:111)
+at com.hubilo.pageobjects.functions.SignUp.verifySignUpData(SignUp.java:37)
+at UI_Runner.SignUpExecution.verifySignupDataSet(SignUpExecution.java:69)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@6c54bc3 (tried for 1 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+... 32 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HUBLAPIND-401.local', ip: '2405:201:4029:30fa:eca2:d797:6f18:fa76%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.3.1', java.version: '11.0.15'
+Driver info: driver.version: IOSDriver
+at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 34 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case ----- verifySignupDataSet Started]]>
+            </line>
+            <line>
+              <![CDATA[verifySignupDataSet***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySignupDataSet -->
+        <test-method signature="verifySignupDataSet(com.hubilo.pojo.ui.BSignUp)[pri:4, instance:UI_Runner.SignUpExecution@23382f76]" started-at="2022-08-05T10:27:37 IST" name="verifySignupDataSet" data-provider="bulkSignUp" finished-at="2022-08-05T10:28:07 IST" duration-ms="30407" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.hubilo.pojo.ui.BSignUp@52f1d01b]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
+at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+at io.appium.java_client.ios.IOSElement$$EnhancerByCGLIB$$d311658.getText(<generated>)
+at com.hubilo.pageobjects.functions.SignUp.setEmail(SignUp.java:111)
+at com.hubilo.pageobjects.functions.SignUp.verifySignUpData(SignUp.java:37)
+at UI_Runner.SignUpExecution.verifySignupDataSet(SignUpExecution.java:69)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@5d1206e0 (tried for 1 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+... 32 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HUBLAPIND-401.local', ip: '2405:201:4029:30fa:eca2:d797:6f18:fa76%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.3.1', java.version: '11.0.15'
+Driver info: driver.version: IOSDriver
+at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 34 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case ----- verifySignupDataSet Started]]>
+            </line>
+            <line>
+              <![CDATA[verifySignupDataSet***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySignupDataSet -->
+        <test-method signature="verifySignupDataSet(com.hubilo.pojo.ui.BSignUp)[pri:4, instance:UI_Runner.SignUpExecution@23382f76]" started-at="2022-08-05T10:28:07 IST" name="verifySignupDataSet" data-provider="bulkSignUp" finished-at="2022-08-05T10:28:38 IST" duration-ms="30359" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.hubilo.pojo.ui.BSignUp@30ebad79]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
+at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+at io.appium.java_client.ios.IOSElement$$EnhancerByCGLIB$$d311658.getText(<generated>)
+at com.hubilo.pageobjects.functions.SignUp.setEmail(SignUp.java:111)
+at com.hubilo.pageobjects.functions.SignUp.verifySignUpData(SignUp.java:37)
+at UI_Runner.SignUpExecution.verifySignupDataSet(SignUpExecution.java:69)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@5b7e6e2d (tried for 1 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+... 32 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HUBLAPIND-401.local', ip: '2405:201:4029:30fa:eca2:d797:6f18:fa76%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.3.1', java.version: '11.0.15'
+Driver info: driver.version: IOSDriver
+at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 34 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case ----- verifySignupDataSet Started]]>
+            </line>
+            <line>
+              <![CDATA[verifySignupDataSet***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySignupDataSet -->
+        <test-method signature="verifyBackLoginNow(com.hubilo.pojo.ui.SignUpData)[pri:5, instance:UI_Runner.SignUpExecution@23382f76]" started-at="2022-08-05T10:28:38 IST" name="verifyBackLoginNow" data-provider="signUpDataJson" finished-at="2022-08-05T10:29:08 IST" duration-ms="30252" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.hubilo.pojo.ui.SignUpData@a2cf1b6]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
+at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+at io.appium.java_client.ios.IOSElement$$EnhancerByCGLIB$$d311658.getText(<generated>)
+at com.hubilo.pageobjects.functions.SignUp.setEmail(SignUp.java:111)
+at com.hubilo.pageobjects.functions.SignUp.verifyLoginNow(SignUp.java:62)
+at com.hubilo.pageobjects.functions.SignUp.verifySignUp(SignUp.java:28)
+at UI_Runner.SignUpExecution.verifyBackLoginNow(SignUpExecution.java:80)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@7240599c (tried for 1 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+... 33 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HUBLAPIND-401.local', ip: '2405:201:4029:30fa:eca2:d797:6f18:fa76%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.3.1', java.version: '11.0.15'
+Driver info: driver.version: IOSDriver
+at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 35 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case ----- verifyBackLoginNow Started]]>
+            </line>
+            <line>
+              <![CDATA[verifyBackLoginNow***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyBackLoginNow -->
+        <test-method signature="verifyBackButton(com.hubilo.pojo.ui.SignUpData)[pri:6, instance:UI_Runner.SignUpExecution@23382f76]" started-at="2022-08-05T10:29:09 IST" name="verifyBackButton" data-provider="signUpDataJson" finished-at="2022-08-05T10:29:39 IST" duration-ms="30309" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.hubilo.pojo.ui.SignUpData@19d65f16]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
+at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+at io.appium.java_client.ios.IOSElement$$EnhancerByCGLIB$$d311658.clear(<generated>)
+at com.hubilo.pageobjects.functions.SignUp.goBackButtonToLogin(SignUp.java:84)
+at com.hubilo.pageobjects.functions.SignUp.verifySignUp(SignUp.java:29)
+at UI_Runner.SignUpExecution.verifyBackButton(SignUpExecution.java:90)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@52c86b9f (tried for 1 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+... 32 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HUBLAPIND-401.local', ip: '2405:201:4029:30fa:eca2:d797:6f18:fa76%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.3.1', java.version: '11.0.15'
+Driver info: driver.version: IOSDriver
+at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 34 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case ----- verifyBackButton Started]]>
+            </line>
+            <line>
+              <![CDATA[verifyBackButton***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyBackButton -->
+        <test-method signature="verifySignUpDetails(com.hubilo.pojo.ui.SignUpData)[pri:7, instance:UI_Runner.SignUpExecution@23382f76]" started-at="2022-08-05T10:29:39 IST" name="verifySignUpDetails" data-provider="signUpDataJson" finished-at="2022-08-05T10:30:13 IST" duration-ms="33844" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.hubilo.pojo.ui.SignUpData@79d15b02]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
+at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+at io.appium.java_client.ios.IOSElement$$EnhancerByCGLIB$$d311658.clear(<generated>)
+at com.hubilo.pageobjects.functions.SignUp.verifySignValidData(SignUp.java:126)
+at com.hubilo.pageobjects.functions.SignUp.verifySignUp(SignUp.java:30)
+at UI_Runner.SignUpExecution.verifySignUpDetails(SignUpExecution.java:101)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@27a14f7e (tried for 1 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+... 32 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HUBLAPIND-401.local', ip: '2405:201:4029:30fa:eca2:d797:6f18:fa76%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.3.1', java.version: '11.0.15'
+Driver info: driver.version: IOSDriver
+at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 34 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case ----- verifySignUpDetails Started]]>
+            </line>
+            <line>
+              <![CDATA[verifySignUpDetails***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //*[@type='XCUIElementTypeTextField']})]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySignUpDetails -->
+        <test-method signature="verifyOnboardingDetails(com.hubilo.pojo.ui.BProfileOnboarding)[pri:8, instance:UI_Runner.SignUpExecution@23382f76]" started-at="2022-08-05T10:30:13 IST" name="verifyOnboardingDetails" data-provider="bulkProfileOnboarding" finished-at="2022-08-05T10:30:45 IST" duration-ms="31351" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.hubilo.pojo.ui.BProfileOnboarding@5c0ae317]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Can't locate an element by this strategy: By.chained({By.id: ic logout})]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.id: ic logout})
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
+at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+at io.appium.java_client.ios.IOSElement$$EnhancerByCGLIB$$d311658.click(<generated>)
+at com.hubilo.pageobjects.functions.Onboarding.logout(Onboarding.java:277)
+at UI_Runner.SignUpExecution.verifyOnboardingDetails(SignUpExecution.java:112)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@3dbe3bc4 (tried for 1 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+... 31 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.id: ic logout})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HUBLAPIND-401.local', ip: '2405:201:4029:30fa:eca2:d797:6f18:fa76%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.3.1', java.version: '11.0.15'
+Driver info: driver.version: IOSDriver
+at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 33 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case ----- verifyOnboardingDetails Started]]>
+            </line>
+            <line>
+              <![CDATA[verifyOnboardingDetails***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.id: ic logout})]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyOnboardingDetails -->
+        <test-method signature="verifyOnboardingDetails(com.hubilo.pojo.ui.BProfileOnboarding)[pri:8, instance:UI_Runner.SignUpExecution@23382f76]" started-at="2022-08-05T10:30:45 IST" name="verifyOnboardingDetails" data-provider="bulkProfileOnboarding" finished-at="2022-08-05T10:31:16 IST" duration-ms="31382" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.hubilo.pojo.ui.BProfileOnboarding@5dcc1495]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Can't locate an element by this strategy: By.chained({By.id: ic logout})]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.id: ic logout})
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
+at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+at io.appium.java_client.ios.IOSElement$$EnhancerByCGLIB$$d311658.click(<generated>)
+at com.hubilo.pageobjects.functions.Onboarding.logout(Onboarding.java:277)
+at UI_Runner.SignUpExecution.verifyOnboardingDetails(SignUpExecution.java:112)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@5f45d7db (tried for 1 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+... 31 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.id: ic logout})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HUBLAPIND-401.local', ip: '2405:201:4029:30fa:eca2:d797:6f18:fa76%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.3.1', java.version: '11.0.15'
+Driver info: driver.version: IOSDriver
+at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 33 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case ----- verifyOnboardingDetails Started]]>
+            </line>
+            <line>
+              <![CDATA[verifyOnboardingDetails***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.id: ic logout})]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyOnboardingDetails -->
+        <test-method signature="verifyBackgroundCover(com.hubilo.pojo.ui.SignUpData)[pri:9, instance:UI_Runner.SignUpExecution@23382f76]" started-at="2022-08-05T10:31:17 IST" name="verifyBackgroundCover" data-provider="signUpDataJson" finished-at="2022-08-05T10:31:47 IST" duration-ms="30223" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.hubilo.pojo.ui.SignUpData@4f7c5402]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Can't locate an element by this strategy: By.chained({By.IosClassChain: **/XCUIElementTypeStaticText[`label == "Next"`]})]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.IosClassChain: **/XCUIElementTypeStaticText[`label == "Next"`]})
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
+at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+at io.appium.java_client.ios.IOSElement$$EnhancerByCGLIB$$d311658.click(<generated>)
+at com.hubilo.pageobjects.functions.Onboarding.setBackgroundImageCover(Onboarding.java:169)
+at com.hubilo.pageobjects.functions.Onboarding.verifyOnboarding(Onboarding.java:40)
+at UI_Runner.SignUpExecution.verifyBackgroundCover(SignUpExecution.java:124)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@687fa4d0 (tried for 1 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+... 32 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.IosClassChain: **/XCUIElementTypeStaticText[`label == "Next"`]})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HUBLAPIND-401.local', ip: '2405:201:4029:30fa:eca2:d797:6f18:fa76%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.3.1', java.version: '11.0.15'
+Driver info: driver.version: IOSDriver
+at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 34 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case ----- verifyBackgroundCover Started]]>
+            </line>
+            <line>
+              <![CDATA[verifyBackgroundCover***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.IosClassChain: **/XCUIElementTypeStaticText[`label == "Next"`]})]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyBackgroundCover -->
+        <test-method signature="verifySocialDetails(com.hubilo.pojo.ui.SignUpData)[pri:10, instance:UI_Runner.SignUpExecution@23382f76]" started-at="2022-08-05T10:31:47 IST" name="verifySocialDetails" data-provider="signUpDataJson" finished-at="2022-08-05T10:32:18 IST" duration-ms="30421" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.hubilo.pojo.ui.SignUpData@4f8aa5fe]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.IndexOutOfBoundsException">
+            <message>
+              <![CDATA[Index 0 out of bounds for length 0]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0
+at java.base/jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64)
+at java.base/jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70)
+at java.base/jdk.internal.util.Preconditions.checkIndex(Preconditions.java:248)
+at java.base/java.util.Objects.checkIndex(Objects.java:372)
+at java.base/java.util.ArrayList.get(ArrayList.java:459)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at io.appium.java_client.pagefactory.ElementListInterceptor.getObject(ElementListInterceptor.java:40)
+at io.appium.java_client.pagefactory.interceptors.InterceptorOfAListOfElements.intercept(InterceptorOfAListOfElements.java:49)
+at $java.util.ArrayList$$EnhancerByCGLIB$$b5855c01.get(<generated>)
+at com.hubilo.pageobjects.functions.Onboarding.setSocialDetail(Onboarding.java:180)
+at com.hubilo.pageobjects.functions.Onboarding.verifyOnboarding(Onboarding.java:43)
+at UI_Runner.SignUpExecution.verifySocialDetails(SignUpExecution.java:134)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.IndexOutOfBoundsException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case ----- verifySocialDetails Started]]>
+            </line>
+            <line>
+              <![CDATA[verifySocialDetails***java.lang.IndexOutOfBoundsException: Index 0 out of bounds for length 0]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySocialDetails -->
+        <test-method signature="verifyLookingForAndOffering(com.hubilo.pojo.ui.SignUpData)[pri:11, instance:UI_Runner.SignUpExecution@23382f76]" started-at="2022-08-05T10:32:18 IST" name="verifyLookingForAndOffering" data-provider="signUpDataJson" finished-at="2022-08-05T10:32:49 IST" duration-ms="30285" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.hubilo.pojo.ui.SignUpData@1222d0e4]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.TimeoutException">
+            <message>
+              <![CDATA[Expected condition failed: waiting for visibility of Located by By.chained({By.IosClassChain: **/XCUIElementTypeTextField[`value == "Select looking for"`]}) (tried for 10 second(s) with 1000 milliseconds interval)]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Located by By.chained({By.IosClassChain: **/XCUIElementTypeTextField[`value == "Select looking for"`]}) (tried for 10 second(s) with 1000 milliseconds interval)
+at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:95)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at com.hubilo.utils.helper.Utility.waitUntilElement(Utility.java:308)
+at com.hubilo.pageobjects.functions.Onboarding.setLookingForOffering(Onboarding.java:194)
+at com.hubilo.pageobjects.functions.Onboarding.verifyOnboarding(Onboarding.java:46)
+at UI_Runner.SignUpExecution.verifyLookingForAndOffering(SignUpExecution.java:143)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+Caused by: org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.IosClassChain: **/XCUIElementTypeTextField[`value == "Select looking for"`]})
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
+at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+at io.appium.java_client.ios.IOSElement$$EnhancerByCGLIB$$d311658.isDisplayed(<generated>)
+at org.openqa.selenium.support.ui.ExpectedConditions.elementIfVisible(ExpectedConditions.java:314)
+at org.openqa.selenium.support.ui.ExpectedConditions.access$000(ExpectedConditions.java:43)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:300)
+at org.openqa.selenium.support.ui.ExpectedConditions$10.apply(ExpectedConditions.java:297)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 31 more
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@7563ca08 (tried for 1 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+... 38 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.IosClassChain: **/XCUIElementTypeTextField[`value == "Select looking for"`]})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HUBLAPIND-401.local', ip: '2405:201:4029:30fa:eca2:d797:6f18:fa76%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.3.1', java.version: '11.0.15'
+Driver info: driver.version: IOSDriver
+at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 40 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.TimeoutException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case ----- verifyLookingForAndOffering Started]]>
+            </line>
+            <line>
+              <![CDATA[verifyLookingForAndOffering***org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of Located by By.chained({By.IosClassChain: **/XCUIElementTypeTextField[`value == "Select looking for"`]}) (tried for 10 second(s) with 1000 milliseconds interval)]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyLookingForAndOffering -->
+        <test-method signature="verifyInterests(com.hubilo.pojo.ui.SignUpData)[pri:12, instance:UI_Runner.SignUpExecution@23382f76]" started-at="2022-08-05T10:32:49 IST" name="verifyInterests" data-provider="signUpDataJson" finished-at="2022-08-05T10:33:19 IST" duration-ms="30285" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.hubilo.pojo.ui.SignUpData@6028b018]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Can't locate an element by this strategy: By.chained({By.IosClassChain: **/XCUIElementTypeTextField[`value == "Search"`]})]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.IosClassChain: **/XCUIElementTypeTextField[`value == "Search"`]})
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
+at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+at io.appium.java_client.ios.IOSElement$$EnhancerByCGLIB$$d311658.isEnabled(<generated>)
+at com.hubilo.utils.helper.Utility.isAvailable(Utility.java:240)
+at com.hubilo.pageobjects.functions.Onboarding.setInterest(Onboarding.java:207)
+at com.hubilo.pageobjects.functions.Onboarding.verifyOnboarding(Onboarding.java:49)
+at UI_Runner.SignUpExecution.verifyInterests(SignUpExecution.java:153)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@26f6fbbd (tried for 1 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+... 33 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.IosClassChain: **/XCUIElementTypeTextField[`value == "Search"`]})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HUBLAPIND-401.local', ip: '2405:201:4029:30fa:eca2:d797:6f18:fa76%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.3.1', java.version: '11.0.15'
+Driver info: driver.version: IOSDriver
+at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 35 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case ----- verifyInterests Started]]>
+            </line>
+            <line>
+              <![CDATA[verifyInterests***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.IosClassChain: **/XCUIElementTypeTextField[`value == "Search"`]})]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyInterests -->
+        <test-method signature="verifyOnboardingDisable(com.hubilo.pojo.ui.SignUpData)[pri:13, instance:UI_Runner.SignUpExecution@23382f76]" started-at="2022-08-05T10:33:19 IST" name="verifyOnboardingDisable" data-provider="signUpDataJson" finished-at="2022-08-05T10:33:53 IST" duration-ms="34000" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[com.hubilo.pojo.ui.SignUpData@13e59265]]>
+              </value>
+            </param>
+          </params>
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Can't locate an element by this strategy: By.chained({By.xpath: //XCUIElementTypeTextView[@name="I agree to the Terms and Conditions and Privacy Policy"]/../..//XCUIElementTypeButton})]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //XCUIElementTypeTextView[@name="I agree to the Terms and Conditions and Privacy Policy"]/../..//XCUIElementTypeButton})
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:126)
+at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:59)
+at io.appium.java_client.ios.IOSElement$$EnhancerByCGLIB$$d311658.click(<generated>)
+at com.hubilo.pageobjects.functions.SignUp.selectConsent(SignUp.java:140)
+at UI_Runner.SignUpExecution.verifyOnboardingDisable(SignUpExecution.java:164)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:566)
+at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:139)
+at org.testng.internal.invokers.TestInvoker.invokeMethod(TestInvoker.java:677)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethod(TestInvoker.java:221)
+at org.testng.internal.invokers.MethodRunner.runInSequence(MethodRunner.java:50)
+at org.testng.internal.invokers.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:962)
+at org.testng.internal.invokers.TestInvoker.invokeTestMethods(TestInvoker.java:194)
+at org.testng.internal.invokers.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:148)
+at org.testng.internal.invokers.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1541)
+at org.testng.TestRunner.privateRun(TestRunner.java:806)
+at org.testng.TestRunner.run(TestRunner.java:601)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:433)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:427)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:387)
+at org.testng.SuiteRunner.run(SuiteRunner.java:330)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1256)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1176)
+at org.testng.TestNG.runSuites(TestNG.java:1099)
+at org.testng.TestNG.run(TestNG.java:1067)
+at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:66)
+at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:109)
+Caused by: org.openqa.selenium.TimeoutException: Expected condition failed: waiting for io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction@69f6b00b (tried for 1 second(s) with 500 milliseconds interval)
+at org.openqa.selenium.support.ui.FluentWait.timeoutException(FluentWait.java:304)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:272)
+at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
+at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
+... 31 more
+Caused by: org.openqa.selenium.NoSuchElementException: Cannot locate an element using By.chained({By.xpath: //XCUIElementTypeTextView[@name="I agree to the Terms and Conditions and Privacy Policy"]/../..//XCUIElementTypeButton})
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'HUBLAPIND-401.local', ip: '2405:201:4029:30fa:eca2:d797:6f18:fa76%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '12.3.1', java.version: '11.0.15'
+Driver info: driver.version: IOSDriver
+at io.appium.java_client.pagefactory.bys.builder.ByChained.findElement(ByChained.java:74)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
+at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
+at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:57)
+at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
+at io.appium.java_client.ios.IOSDriver.findElement(IOSDriver.java:1)
+at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
+at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
+at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
+... 33 more
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[Test Case ----- verifyOnboardingDisable Started]]>
+            </line>
+            <line>
+              <![CDATA[verifyOnboardingDisable***org.openqa.selenium.NoSuchElementException: Can't locate an element by this strategy: By.chained({By.xpath: //XCUIElementTypeTextView[@name="I agree to the Terms and Conditions and Privacy Policy"]/../..//XCUIElementTypeButton})]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyOnboardingDisable -->
+        <test-method is-config="true" signature="verifyOnboardingUpdate()[pri:0, instance:UI_Runner.SignUpExecution@23382f76]" started-at="2022-08-05T10:33:54 IST" name="verifyOnboardingUpdate" finished-at="2022-08-05T10:33:59 IST" duration-ms="5045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyOnboardingUpdate -->
+      </class> <!-- UI_Runner.SignUpExecution -->
+    </test> <!-- Mobile Automation Smoke Suite -->
+  </suite> <!-- Automation Mobile -->
+</testng-results>

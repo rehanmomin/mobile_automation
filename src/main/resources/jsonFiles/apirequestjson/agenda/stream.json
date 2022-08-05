@@ -1,0 +1,10 @@
+{
+  "data": {
+    "is_stream": 1,
+    "stream_type_id": 1,
+    "stream_link": "https://www.youtube.com/watch?v=VNs_cCtdbPc",
+    "stream_recording_link": "",
+    "is_moderate_qna": 0,
+    "hosting_properties": "[{\"type\":\"LIVE_CHAT\",\"name\":\"CHAT\",\"isActive\":\"YES\"},{\"type\":\"QUESTION_AND_ANSWERS\",\"name\":\"Q & A\",\"isActive\":\"YES\"},{\"type\":\"LIVE_POLLS\",\"name\":\"POLLS\",\"isActive\":\"YES\"},{\"type\":\"ATTENDEE_LIST\",\"name\":\"ATTENDEES\",\"isActive\":\"YES\"},{\"type\":\"SESSIONS\",\"name\":\"SESSIONS\",\"isActive\":\"YES\"}]"
+  }
+}

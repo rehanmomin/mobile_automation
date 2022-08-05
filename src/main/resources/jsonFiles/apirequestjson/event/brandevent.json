@@ -1,0 +1,76 @@
+{
+  "data": {
+    "favicon": "",
+    "color": 4,
+    "domainSettings": {
+      "is_hubilo": 1,
+      "domain_protocol": "https://",
+      "url": "events.v2release.demohubilo.com",
+      "v2_index_url": "automation-appium1234"
+    },
+    "communityBannerList": [
+      "2400_9612_870944001659441565.png"
+    ],
+    "logoList": [
+      "2400_9612_870944001659441565.png"
+    ],
+    "loginBannerList": [],
+    "logos": [],
+    "coverImagesList": [
+      "n-cover-1.png",
+      "n-cover-2.png",
+      "n-cover-3.png",
+      "n-cover-4.png",
+      "n-cover-5.png",
+      "n-cover-6.png"
+    ],
+    "coverImages": [
+      {
+        "is_template_type": "DEFAULT",
+        "visibility": 1,
+        "img_file_name": "n-cover-1.png",
+        "id": "62e7f9f5ffbd7234ad43d65e"
+      },
+      {
+        "is_template_type": "DEFAULT",
+        "visibility": 1,
+        "img_file_name": "n-cover-2.png",
+        "id": "62e7f9f5ffbd7234ad43d65f"
+      },
+      {
+        "is_template_type": "DEFAULT",
+        "visibility": 1,
+        "img_file_name": "n-cover-3.png",
+        "id": "62e7f9f5ffbd7234ad43d660"
+      },
+      {
+        "is_template_type": "DEFAULT",
+        "visibility": 1,
+        "img_file_name": "n-cover-4.png",
+        "id": "62e7f9f5ffbd7234ad43d661"
+      },
+      {
+        "is_template_type": "DEFAULT",
+        "visibility": 1,
+        "img_file_name": "n-cover-5.png",
+        "id": "62e7f9f5ffbd7234ad43d662"
+      },
+      {
+        "is_template_type": "DEFAULT",
+        "visibility": 1,
+        "img_file_name": "n-cover-6.png",
+        "id": "62e7f9f5ffbd7234ad43d663"
+      }
+    ],
+    "communityBanners": [
+      {
+        "img_file_name": "1271_7607_956269001659423640.png",
+        "link": ""
+      }
+    ],
+    "is_landing_page": 1,
+    "isPoweredBy": true,
+    "isShowOnBoardingBanners": 0,
+    "enable_event_logo_in_navigation": 0
+  }
+}

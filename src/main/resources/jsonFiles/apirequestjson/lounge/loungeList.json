@@ -1,0 +1,96 @@
+{
+  "status": 200,
+  "data": [{
+    "topic": "test",
+    "capacity": 4,
+    "tableType": "EXHIBITOR",
+    "priority": 0,
+    "meetingLimit": 0,
+    "sourceId": 457114,
+    "tableName": "lounge 2",
+    "lounge_image": "3426_5633_110975001655726730.jpeg",
+    "id": "62b4abd1c6c2654155269117"
+  }, {
+    "topic": "1",
+    "capacity": 8,
+    "tableType": "EXHIBITOR",
+    "priority": 0,
+    "meetingLimit": 0,
+    "sourceId": 457114,
+    "tableName": "Automation testing lounge",
+    "lounge_image": "3426_5633_110975001655726730.jpeg",
+    "id": "62b4ad4a484243340f74f9cd"
+  }, {
+    "topic": "test",
+    "capacity": 8,
+    "tableType": "EXHIBITOR",
+    "priority": 0,
+    "meetingLimit": 0,
+    "sourceId": 457114,
+    "tableName": "Automation testing lounge",
+    "lounge_image": "3426_5633_110975001655726730.jpeg",
+    "id": "62b54d0cc6c2654155269432"
+  }, {
+    "topic": "testing",
+    "capacity": 4,
+    "tableType": "EXHIBITOR",
+    "priority": 1,
+    "meetingLimit": 0,
+    "sourceId": 455648,
+    "tableName": "Automation testing lounge",
+    "lounge_image": "",
+    "id": "62b4aaf5c6c2654155269116"
+  }, {
+    "topic": "testing",
+    "capacity": 4,
+    "tableType": "EXHIBITOR",
+    "priority": 1,
+    "meetingLimit": 0,
+    "sourceId": 455648,
+    "tableName": "Automation testing lounge",
+    "lounge_image": "",
+    "id": "62b4ab66484243340f74f9cc"
+  }, {
+    "topic": "testing",
+    "capacity": 8,
+    "tableType": "EXHIBITOR",
+    "priority": 1,
+    "meetingLimit": 0,
+    "sourceId": 455648,
+    "tableName": "Automation testing lounge2",
+    "lounge_image": "",
+    "id": "62b4ab77ee7b4134ba0ea424"
+  }, {
+    "topic": "testing",
+    "capacity": 8,
+    "tableType": "EXHIBITOR",
+    "priority": 1,
+    "meetingLimit": 0,
+    "sourceId": 455648,
+    "tableName": "Automation testing loung32",
+    "lounge_image": "",
+    "id": "62b54cb0c6c2654155269431"
+  }, {
+    "topic": "testing",
+    "capacity": 16,
+    "tableType": "EXHIBITOR",
+    "priority": 1,
+    "meetingLimit": 0,
+    "sourceId": 457114,
+    "tableName": "Automation testing lounge",
+    "lounge_image": "3426_5633_110975001655726730.jpeg",
+    "id": "62b59a630b6dca5a2d15f902"
+  }, {
+    "topic": "test",
+    "capacity": 4,
+    "tableType": "EXHIBITOR",
+    "priority": 1,
+    "meetingLimit": 0,
+    "sourceId": 457114,
+    "tableName": "lounge 2",
+    "lounge_image": "3426_5633_110975001655726730.jpeg",
+    "id": "62b8a7860866f754f57c7542"
+  }],
+  "total_page": 1,
+  "total_count": 9
+}

@@ -1,0 +1,19 @@
+{
+  "data": {
+    "description": "",
+    "multiple_file": [],
+    "start_time_milli": 1656668531000,
+    "end_time_milli": 1656672131000,
+    "is_featured": 1,
+    "is_rating": 0,
+    "speakers": [
+      38914
+    ],
+    "booths": [],
+    "name": "Youtube Session",
+    "isOnsiteCheckinEnabled": 0,
+    "tags": "",
+    "banner": "",
+    "location": ""
+  }
+}

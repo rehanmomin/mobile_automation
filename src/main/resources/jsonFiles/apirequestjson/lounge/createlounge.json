@@ -1,0 +1,18 @@
+{
+  "data": {
+    "name": "Automation testing lounge",
+    "topic": "test",
+    "capacity": "8",
+    "lounge_image": "",
+    "priority": "2",
+    "table_type": "ATTENDEE",
+    "meetingLimit": 0,
+    "exhibitors": "",
+    "exhibitorData": {
+      "id": "",
+      "name": ""
+    },
+    "isAttRxn": "YES",
+    "meeting_limit": 0
+  }
+}

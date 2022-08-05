@@ -1,0 +1,22 @@
+{
+  "data": {
+    "search": "",
+    "filter": {
+      "group": [],
+      "interest": [],
+      "industry": [],
+      "lookingfor": [],
+      "offering": [],
+      "designation": "",
+      "organisation": "",
+      "loginStatus": "",
+      "status": "",
+      "is_logged_in": false,
+      "is_not_logged_in": false
+    },
+    "is_all": 0,
+    "ids": [
+      "62b880e0cdcb6f03870ed324"
+    ]
+  }
+}
