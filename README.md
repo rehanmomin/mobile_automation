@@ -55,7 +55,7 @@ IntelliJ Idea : https://www.jetbrains.com/idea/download/
 	10. Edit the path variable from ‘Edit system Variables’ dialog box.
 	11. Add the ‘tools’ and platform-tools’ folder’s full path, as shown below.
 
-# GIT Clone project: git clone https://github.com/hubilo/Mobile_Automation.git
+# GIT Clone project: git clone https://github.com/rehanmomin/mobile_automation
 	Start IntelliJ Idea > Open Project > Mobile_Automation and wait for all dependencies get loaded.
 
 
